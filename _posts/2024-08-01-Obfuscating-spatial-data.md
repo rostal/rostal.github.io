@@ -40,7 +40,7 @@ In R we can generate numbers using the function `runif`.
 runif(1)
 ```
 
-    ## [1] 0.4642937
+    ## [1] 0.7840902
 
 If you want to ensure that you get the same number each time you can set
 the psuedo-random number seed before generating random number.
@@ -95,22 +95,14 @@ print(obfuscated)
 ``` r
 unobfuscated <- obfuscate_latlong(obfuscated, secret_seed, direction = 1)
 
-print(paste("Original value:", x))
+print(glue::glue("Original value: {x}
+Obfuscated value: {obfuscated}
+Unobfuscated value: {unobfuscated}"))
 ```
 
-    ## [1] "Original value: 48.8566"
-
-``` r
-print(paste("Obfuscated value:", obfuscated))
-```
-
-    ## [1] "Obfuscated value: 48.414792207478"
-
-``` r
-print(paste0("Unobfuscated value:", unobfuscated))
-```
-
-    ## [1] "Unobfuscated value:48.8566"
+    ## Original value: 48.8566
+    ## Obfuscated value: 48.414792207478
+    ## Unobfuscated value: 48.8566
 
 Now if you want to obfuscate latitude or longitude values in a
 reversable way all you have to do is share the secret_seed and the
