@@ -17,10 +17,10 @@ knit: >
 ---
 layout: post
 title: What is Machine Learning?
-image: /assets/img/spatial_obfuscation.png
-cover-img: /assets/img/spatial_obfuscation.png
-share-img: /assets/img/spatial_obfuscation.png
-tags: [data, R, tricks]
+image: /assets/img/overfit.png
+cover-img: /assets/img/overfit.png
+share-img: /assets/img/overfit.png
+tags: [machine learning]
 ---
 ```
 
