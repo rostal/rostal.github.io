@@ -1,10 +1,10 @@
 ---
 layout: post
 title: What is Machine Learning?
-image: /assets/img/spatial_obfuscation.png
-cover-img: /assets/img/spatial_obfuscation.png
-share-img: /assets/img/spatial_obfuscation.png
-tags: [data, R, tricks]
+image: /assets/img/overfitting.png
+cover-img: /assets/img/overfitting.png
+share-img: /assets/img/overfitting.png
+tags: [machine learning]
 ---
 
 While I was visiting with my aunt the other day she asked me, “what is
