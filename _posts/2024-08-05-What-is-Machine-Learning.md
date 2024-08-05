@@ -11,7 +11,7 @@ While I was visiting with my aunt the other day she asked me, “what is
 machine learning?” I was caught off guard because the term is so common
 place in my industry that I haven’t really ever had to sit down and
 define it from first principles before. I normally think about Machine
-Learning (ML) in terms of model tuning and the variance-bias trade-off
+Learning (ML) in terms of model tuning and the variance-bias trade-off,
 neither of which was of any use when talking with my aunt. Perhaps my
 favorite explanation is from [xkcd](https://xkcd.com/1838/):
 
@@ -21,13 +21,13 @@ favorite explanation is from [xkcd](https://xkcd.com/1838/):
 
 ## The variance-bias trade-off
 
-The bias-variance trade-off is a fundamental concept in machine learning
-that describes the balance between two sources of error that affect
-model performance: bias and variance. Bias refers to the error
-introduced by simplifying assumptions made by the model, leading to
-systematic inaccuracies or underfitting. Variance, on the other hand,
-represents the model’s sensitivity to fluctuations in the training data,
-causing overfitting.
+Still the bias-variance trade-off is a good place to start. It’s an
+important concept that describes the balance between two sources of
+error that affect model performance: bias and variance. Bias refers to
+the error introduced by simplifying assumptions made by the model,
+leading to systematic inaccuracies or underfitting. Variance, on the
+other hand, represents the model’s sensitivity to fluctuations in the
+training data, causing overfitting.
 
 <p style="text-align:center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bias_and_variance_contributing_to_total_error.svg/1920px-Bias_and_variance_contributing_to_total_error.svg.png" width="50%">
@@ -41,7 +41,7 @@ structure. Finding this balance is important for both classification and
 regression based problems.
 
 <p style="text-align:center;">
-<img src="https://365datascience.com/resources/blog/x671k7dla1f-overfitting-vs-underfitting-classification-examples.png" width="75%">
+<img src="https://365datascience.com/resources/blog/x671k7dla1f-overfitting-vs-underfitting-classification-examples.png" width="85%">
 </p>
 
 Unfortunately the ‘sweet-spot’ between bias and variances **depends on
