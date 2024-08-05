@@ -58,7 +58,7 @@ Still the bias-variance trade-off is a good place to start. It's an important co
 An optimal model minimizes the total error by striking a balance between bias and variance. Too much bias results in an overly simple model that misses relevant patterns, while too much variance creates an overly complex model that captures noise rather than the underlying data structure. Finding this balance is important for both classification and regression based problems.
 
 <p style="text-align:center;">
-<img src="https://365datascience.com/resources/blog/x671k7dla1f-overfitting-vs-underfitting-classification-examples.png" width="85%">
+<img src="https://365datascience.com/resources/blog/x671k7dla1f-overfitting-vs-underfitting-classification-examples.png" width="100%">
 </p>
 
 Unfortunately the 'sweet-spot' between bias and variances **depends on how much data you have.**

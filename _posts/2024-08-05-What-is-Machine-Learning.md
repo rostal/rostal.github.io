@@ -41,7 +41,7 @@ structure. Finding this balance is important for both classification and
 regression based problems.
 
 <p style="text-align:center;">
-<img src="https://365datascience.com/resources/blog/x671k7dla1f-overfitting-vs-underfitting-classification-examples.png" width="85%">
+<img src="https://365datascience.com/resources/blog/x671k7dla1f-overfitting-vs-underfitting-classification-examples.png" width="100%">
 </p>
 
 Unfortunately the ‘sweet-spot’ between bias and variances **depends on
