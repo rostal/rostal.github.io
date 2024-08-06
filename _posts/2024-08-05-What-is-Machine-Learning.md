@@ -92,10 +92,11 @@ organization of the pile improves as well. ML is a pile that stirs
 itself. And a good sign you’re dealing with an ML based approach is if
 you see that train-validate-test split.
 
-But why would you want to use ML anyway? Well, when is it okay to over
-fit? Maybe if you’re interested in the noise or you just care about
-describing your particular dataset and not predicting outside the range
-of your data.
+But why would you want to use ML anyway? Definitely any time you want to
+use a complex model to predict out-of sample. When you wouldn’t want to
+use ML methods? Maybe if you’re interested in the noise or you just care
+about deeply describing your particular dataset and not predicting
+outside the range of your data.
 
 I would love to hear your thoughts! What are your general definitions of
 Machine Learning for a non-expert audience? When should you use, or
