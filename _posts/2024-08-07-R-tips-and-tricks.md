@@ -21,7 +21,8 @@ hard to make `map_dfr()` just keep going if it returns an error. How? By
 using purrr::possibly()!
 
 <p style="text-align:center;">
-<img src="https://purrr.tidyverse.org/logo.png" width="40%">
+\<a
+href=“<https://purrr.tidyverse.org>\><img src="https://purrr.tidyverse.org/logo.png" width="40%">
 </p>
 
 ``` r
@@ -35,7 +36,7 @@ diamonds |> group_by(cut) |> group_split() |> map_dfr(~error_prone_function(.x))
 ```
 
     ## Error in `map()`:
-    ## ℹ In index: 3.
+    ## ℹ In index: 2.
     ## Caused by error in `error_prone_function()`:
     ## ! Random error encountered!
 
@@ -44,7 +45,7 @@ diamonds |> group_by(cut) |> group_split() |> map_dfr(~error_prone_function(.x))
 diamonds |> group_by(cut) |> group_split() |> map_dfr(~possibly(error_prone_function)(.x))
 ```
 
-    ## # A tibble: 27,483 × 10
+    ## # A tibble: 23,161 × 10
     ##    carat cut   color clarity depth table price     x     y     z
     ##    <dbl> <ord> <ord> <ord>   <dbl> <dbl> <int> <dbl> <dbl> <dbl>
     ##  1  0.22 Fair  E     VS2      65.1    61   337  3.87  3.78  2.49
@@ -57,7 +58,7 @@ diamonds |> group_by(cut) |> group_split() |> map_dfr(~possibly(error_prone_func
     ##  8  0.98 Fair  H     SI2      67.9    60  2777  6.05  5.97  4.08
     ##  9  0.84 Fair  G     SI1      55.1    67  2782  6.39  6.2   3.47
     ## 10  1.01 Fair  E     I1       64.5    58  2788  6.29  6.21  4.03
-    ## # ℹ 27,473 more rows
+    ## # ℹ 23,151 more rows
 
 This isn’t something we always want to do. In the example above it will
 silently drop any group that throws an error. That can be dangerous. A
