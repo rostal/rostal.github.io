@@ -2,7 +2,6 @@
 layout: post
 title: What is Machine Learning?
 image: /assets/img/overfit.svg
-cover-img: /assets/img/overfit.svg
 share-img: /assets/img/overfit.svg
 tags: [machine learning]
 ---
