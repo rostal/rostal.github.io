@@ -37,7 +37,12 @@ Here are some random R tips and tricks that might be useful to you, or more like
 
 ## 1. Error safe mapping
 
-Have you ever run into the problem where you map over a dataset or a vector of values but sometimes encounter an error? This can be extremely annoying because even if the error is rare it interrupts the entire process. This could be an external API call that fails randomly or some other error prone function applied to a list. As it turns out it isn't hard to make `map_dfr()` just keep going if it returns an error. How? By using {purrr}::possibly()!
+Have you ever run into the problem where you map over a dataset or a vector of values but sometimes encounter an error? This can be extremely annoying because even if the error is rare it interrupts the entire process. This could be an external API call that fails randomly or some other error prone function applied to a list. As it turns out it isn't hard to make `map_dfr()` just keep going if it returns an error. How? By using purrr::possibly()!
+
+<p style="text-align:center;">
+<img src="https://purrr.tidyverse.org/logo.png" width="40%">
+</p>
+
 
 ```{r, error=TRUE}
 error_prone_function <- function(x) {
