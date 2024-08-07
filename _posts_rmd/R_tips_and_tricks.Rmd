@@ -18,7 +18,6 @@ knit: >
 layout: post
 title: R tips and tricks
 image: /assets/img/R.svg
-cover-img: /assets/img/R.svg
 share-img: /assets/img/R.svg
 tags: [machine learning]
 ---
