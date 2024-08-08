@@ -84,13 +84,17 @@ unduly influencing hyper-parameter selection.
 
 And that’s it. Those are the things that make up Machine Learning. Not
 all methods tune hyper-parameters but ultimately I think of Machine
-Learning as **any computational process that can improve both it’s
-answers *and it’s method* over time or with the addition of new data**.
-In the xkcd comic above not only do the answers that come out of the box
-become refined (hopefully!) when you pour more data in but the
-organization of the pile improves as well. ML is a pile that stirs
-itself. And a good sign you’re dealing with an ML based approach is if
-you see that train-validate-test split.
+Learning is a branch of artificial intelligence and consists of **any
+computational process that can improve both it’s answers *and it’s
+method* over time or with the addition of new data without also changing
+any programming**. Instead of following a fixed and rigid method,
+machine learning algorithms analyze data to identify patterns and use
+those patterns to improve their performance over time. In the xkcd comic
+above not only do the answers that come out of the box become refined
+(hopefully!) when you pour more data in but the organization of the pile
+improves as well. ML is a pile that stirs itself. And a good sign you’re
+dealing with an ML based approach is if you see that train-validate-test
+split.
 
 But why would you want to use ML anyway? Definitely any time you want to
 use a complex model to predict out-of sample. When you wouldn’t want to
