@@ -117,3 +117,5 @@ Be well.
 4.  [Google Developers Machine Learning Crash
     Course](https://developers.google.com/machine-learning/crash-course)
 5.  [Towards data sciece on Medium](https://towardsdatascience.com/)
+6.  [A hand built nerual
+    network!](https://github.com/rorro6787/NeuralNetwork/tree/main)
