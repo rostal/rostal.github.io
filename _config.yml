@@ -22,7 +22,7 @@ author: Nate Layman
 navbar-links:
   About Me: "aboutme"
   Resume: "Resume"
-  Papers: "Papers"
+  Publications: "Publications"
   Projects:
     - WAHIS-WILD Sensitivity: "https://github.com/ecohealthalliance/woah-wahis-wild-sensitivity"
     - Automated Literature Searching: "https://github.com/ecohealthalliance/ehallm"
@@ -53,6 +53,10 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+scholar:
+  style: apa
+  source: _bibliography
+  bibliography: works.bib
 
 #####################################
 # --- Footer social media links --- #
