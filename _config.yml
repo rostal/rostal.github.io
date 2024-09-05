@@ -55,7 +55,7 @@ round-avatar: true
 scholar:
   style: apa
   bibliography: works.bib
-  bibliography_template: bib
+  # bibliography_template: bib
   details_link: "https://doi.org/%{doi}"
   details_label: "DOI"
 
