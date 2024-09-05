@@ -54,7 +54,7 @@ round-avatar: true
 
 scholar:
   style: apa
-  bibliography: template.bib
+  bibliography: works.bib
   bibliography_template: bib
 
 
