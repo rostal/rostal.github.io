@@ -1123,3 +1123,8 @@ pre {
     display: inline-block;
   }
 }
+
+.bibliography li {
+    margin-bottom: 15px; /* Adjust the value to control spacing */
+}
+
