@@ -2,7 +2,11 @@
 ---
 
 {% if entry.doi %}
-  {{ reference | remove: entry.doi | remove: 'https://doi.org/' }} <a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI: {{ entry.doi }}</a>
+  <div style="margin-bottom: 1.5em;">
+    {{ reference | remove: entry.doi | remove: 'https://doi.org/' }} <a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI: {{ entry.doi }}</a>
+    </div>
 {% else %}
-  {{ reference }}
+  <div style="margin-bottom: 1.5em;">
+    {{ reference }}
+    </div>
 {% endif %}
