@@ -2,5 +2,7 @@
 ---
 
 {% if entry.doi %}
-<a href="{{ entry.doi }}">{{reference}}</a>
-{% else %} {{reference}} {% endif %}
+  {{ reference }} <a href="https://doi.org/{{ entry.doi }}" target="_blank">(DOI: {{ entry.doi }})</a>
+{% else %}
+  {{ reference }}
+{% endif %}
