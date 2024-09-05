@@ -3,4 +3,4 @@ layout: page
 title: Papers
 ---
 
-{% bibliograph %}
+{% bibliography %}
