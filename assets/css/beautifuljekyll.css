@@ -24,7 +24,7 @@ layout: null
   --mid-col: #808080;
 }
 
-.bibliography-list li {
+.bibliography li {
     margin-bottom: 25px; /* Space between each list item */
 }
 
