@@ -12,7 +12,7 @@ footer.footer-min {
   text-align: center;
 }
 
-ol.bibliography span{
-    margin-bottom: 1em !important; /* Use a more specific selector */
+ol li {
+    margin-bottom: 15px; /* Space between each list item */
 }
 
