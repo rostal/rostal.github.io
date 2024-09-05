@@ -22,7 +22,7 @@ author: Nate Layman
 navbar-links:
   About Me: "aboutme"
   Resume: "Resume"
-  Publications: "Publications"
+  Pubs: "Pubs"
   Projects:
     - WAHIS-WILD Sensitivity: "https://github.com/ecohealthalliance/woah-wahis-wild-sensitivity"
     - Automated Literature Searching: "https://github.com/ecohealthalliance/ehallm"
