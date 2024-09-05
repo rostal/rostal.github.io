@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Nate's CompSci Corner
+title: Computational Research and Data Science
 
 # Your name to show in the footer
 author: Nate Layman
@@ -21,7 +21,7 @@ author: Nate Layman
 
 navbar-links:
   About Me: "aboutme"
-  CV: "CV"
+  Resume: "Resume"
   Projects:
     - WAHIS-WILD Sensitivity: "https://github.com/ecohealthalliance/woah-wahis-wild-sensitivity"
     - Automated Literature Searching: "https://github.com/ecohealthalliance/ehallm"
