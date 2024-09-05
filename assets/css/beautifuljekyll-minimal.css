@@ -12,9 +12,7 @@ footer.footer-min {
   text-align: center;
 }
 
-.bibliography li {
-    margin-bottom: 1em; /* Space between items */
-    line-height: 1.5;   /* Adjust line height if needed */
-    padding-left: 0;    /* Remove any default padding */
+ol.bibliography li {
+    margin-bottom: 1em !important; /* Use a more specific selector */
 }
 
