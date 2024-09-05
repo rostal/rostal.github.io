@@ -24,11 +24,6 @@ layout: null
   --mid-col: #808080;
 }
 
-ol li {
-    margin-bottom: 25px; /* Space between each list item */
-}
-
-
 /* --- General --- */
 
 html {
