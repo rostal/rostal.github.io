@@ -66,7 +66,7 @@ scholar:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "n8.layman@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: n8layman
   # twitter: daattali
