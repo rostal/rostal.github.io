@@ -56,9 +56,8 @@ scholar:
   style: apa
   source: _bibliography
   bibliography: works.bib
-  bibtex_filters:
-    - latex
-    - markdown
+  bibliography_template: bib
+
 
 #####################################
 # --- Footer social media links --- #
