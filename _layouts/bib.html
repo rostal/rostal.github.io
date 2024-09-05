@@ -1,8 +1,8 @@
 ---
 ---
 
-{% if entry.doi and reference contains entry.doi %}
-  {{ reference }} <a href="https://doi.org/{{ entry.doi }}" target="_blank"></a>
+{% if entry.doi %}
+  {{ reference | remove: entry.doi }} <a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI: {{ entry.doi }}</a>
 {% else %}
   {{ reference }}
 {% endif %}
