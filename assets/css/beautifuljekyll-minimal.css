@@ -13,6 +13,8 @@ footer.footer-min {
 }
 
 .bibliography li {
-    margin-bottom: 40px !important;
+    margin-bottom: 1em; /* Space between items */
+    line-height: 1.5;   /* Adjust line height if needed */
+    padding-left: 0;    /* Remove any default padding */
 }
 
