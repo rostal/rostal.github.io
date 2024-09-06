@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: 
 cover-img: /assets/img/wallowas.jpg
 ---
 
