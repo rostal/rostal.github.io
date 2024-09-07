@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Computational Research
+title: One Health Research Consulting
 
 # Your name to show in the footer
-author: Nate Layman
+author: Mindy Rostal
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,12 +22,12 @@ author: Nate Layman
 navbar-links:
   About Me: "aboutme"
   Resume: "Resume"
-  Pubs: "Pubs"
+  Pubs: "Publications"
   Projects:
-    - WAHIS-WILD Sensitivity: "https://github.com/ecohealthalliance/woah-wahis-wild-sensitivity"
-    - Automated Literature Searching: "https://github.com/ecohealthalliance/ehallm"
-    - Chat Assisted Debugging: "https://github.com/n8layman/chad"
-    - TDOA game: "https://n8-layman.shinyapps.io/tdoa/"
+    - Rift Valley fever in South Africa: "https://www.dropbox.com/scl/fi/wy873l4rsqqojjwmbgha9/RVF-EESE-Executive-Summary-Nov-2019.pdf?rlkey=kdvtsiv4g2m8s4npss3u4qorr&st=rv95aeiw&dl=0"
+    - Crimean-Congo hemorrhagic fever virus ecology in Tanzania: "https://www.dropbox.com/scl/fi/2u0gfaeqqe6zyqk277cpo/CCHF-Executive-Summary.pdf?rlkey=ag0ml5q8kos75cadifcrg13k0&st=nwgm95a8&dl=0"
+    - PREDICT and PREDICT2: "https://ohi.vetmed.ucdavis.edu/programs-projects/predict-project/about"
+
   Resources:
     - Statistical Inference: "https://github.com/rmcelreath/stat_rethinking_2023"
     - Learn Markdown: "http://www.markdowntutorial.com/"
@@ -43,10 +43,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar.png"
+avatar: "/assets/img/OH_Research_logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -68,17 +68,17 @@ scholar:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "n8.layman@gmail.com"
+  email: "rostal@onehealthresearch.net"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-  github: n8layman
+  github: rostal
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: "@daattali"
   # whatsapp: 15551212
   # medium: yourname
   # reddit: yourname
-  linkedin: n8layman
+  linkedin: melinda-rostal
   # xing: yourname
   # stackoverflow: "3943160/daattali"
   # snapchat: deanat78
@@ -92,8 +92,8 @@ social-network-links:
   # calendly: yourname
   # mastodon: instance.url/@username
   # bluesky: yourname
-  ORCID: 0000-0003-2238-6584
-  google-scholar: vHrEuBQAAAAJ
+  ORCID: 0000-0002-6563-5280
+  google-scholar: VxBEBiEAAAAJ
   # discord: "invite_code" or "users/userid" or "invite/invite_code"
   # kaggle: yourname
   # hackerrank: yourname
@@ -144,7 +144,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "veterinary epidmeiology, Rift Valley fever, vector-borne zoonoses, Crimean-Congo hemorrhagic fever"
 
 ######################################
 # --- Colours / background image --- #
@@ -261,16 +261,16 @@ footer-hover-col: "#0085A1"
 # (2) Install the giscus app in your repository (details at https://giscus.app),
 # (3) Fill in *all* the parameters below
 # See more details about giscus and each of the following parameters at https://giscus.app
-giscus:
-  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
-  repository: "n8layman/n8layman.github.io"
-  repository-id: "MDEwOlJlcG9zaXRvcnkyNDUzMzUzMDE="
-  category: "Comments"
-  category-id: "DIC_kwDODp-FBc4CgncF"
-  mapping: pathname
-  reactions-enabled: 1
-  emit-metadata: 0
-  theme: light
+#giscus:
+#  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
+#  repository: "n8layman/n8layman.github.io"
+#  repository-id: "MDEwOlJlcG9zaXRvcnkyNDUzMzUzMDE="
+#  category: "Comments"
+#  category-id: "DIC_kwDODp-FBc4CgncF"
+#  mapping: pathname
+#  reactions-enabled: 1
+#  emit-metadata: 0
+#  theme: light
 
 # https://giscus.app/
 # data-repo="n8layman/n8layman.github.io"
