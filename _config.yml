@@ -52,12 +52,13 @@ round-avatar: false
 # then specify the following parameter
 #title-img: /path/to/image
 
-scholar:
-  style: apa
-  bibliography: works.bib
-  bibliography_template: bib
-  details_link: "https://doi.org/%{doi}"
-  details_label: "DOI"
+#Come back and fix this
+#scholar:
+#  style: apa
+#  bibliography: works.bib
+#  bibliography_template: bib
+#  details_link: "https://doi.org/%{doi}"
+#  details_label: "DOI"
 
 
 #####################################
