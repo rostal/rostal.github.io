@@ -53,12 +53,12 @@ round-avatar: false
 #title-img: /path/to/image
 
 #Come back and fix this
-#scholar:
-#  style: apa
-#  bibliography: works.bib
-#  bibliography_template: bib
-#  details_link: "https://doi.org/%{doi}"
-#  details_label: "DOI"
+scholar:
+  style: apa
+  bibliography: works.bib
+  bibliography_template: bib
+  details_link: "https://doi.org/%{doi}"
+  details_label: "DOI"
 
 
 #####################################
