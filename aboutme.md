@@ -1,9 +1,10 @@
 ---
 layout: page
 title: 
-cover-img: /assets/img/wallowas.jpg
+cover-img: /assets/img/Sunrise Tanzania 2023.heic
 ---
 
-<p style="text-align: center; font-size: 24px; font-weight: bold;">Adventures in Curiosity</p>
+<p style="text-align: center; font-size: 24px; font-weight: bold;">One Health solutions</p>
 
-Hello! My name is Nate. I'm a research scientist specializing in the application of computational science and machine learning to ecological and evolutionary questions. My work includes developing computer vision models to predict zoonotic reservoir host distribution, enhancing wildlife disease surveillance through natural language processing, and mitigating viral spillover using predictive forecasting. I'm dedicated to open and reproducible science, and to accurately capturing uncertainty in modeling. Outside of my research, I enjoy hiking, camping in the Pacific Northwest, and spending quality time with my family. 
+I am veterinary epidemiologist dedicated to developing One Health solutions to complicated vector-borne and zoonotic disease systems. My work includes establishing wildlife surveillance systems, developing biosurveillance of pathogens in livestock and human populations, training partners in collecting biological samples from wildlife and livestock, using theoretical modeling to examine the mechanisms underlying viral transmission in host populations, and integrating messy One Health data to support integrated analyses. Outside of my research, I enjoy hiking, outdoor photography and spending time with my family.
+
