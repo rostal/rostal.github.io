@@ -158,6 +158,8 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 keywords: "veterinary epidmeiology, Rift Valley fever, vector-borne zoonoses, Crimean-Congo hemorrhagic fever"
 
+# enables categorization of projects into multiple categories
+enable_project_categories: true 
 ######################################
 # --- Colours / background image --- #
 ######################################
