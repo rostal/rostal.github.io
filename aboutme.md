@@ -7,6 +7,7 @@ profile:
   image: M_Rostal_headshot.png
   image_circular: false # crops the image to make it circular
 ---
+![](/assets/img/M_Rostal_headshot.png)
 
 <p style="text-align: center; font-size: 24px; font-weight: bold;">One Health solutions</p>
 
