@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-cover-img: /assets/img/Sunrise Tanzania 2023.heic
+title: Mindy Rostal
+cover-img: /assets/img/Sunrise Tanzania 2023.png
 ---
 
 <p style="text-align: center; font-size: 24px; font-weight: bold;">One Health solutions</p>
