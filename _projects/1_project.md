@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Rift Valley fever virus epidemiology
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/RVF_pic1.jpeg
 importance: 1
 category: work
 related_publications: true
