@@ -23,10 +23,11 @@ navbar-links:
   About Me: "aboutme"
   Resume: "Resume"
   Publications: "Publications"
-  Projects:
-    - Rift Valley fever in South Africa: "https://www.dropbox.com/scl/fi/wy873l4rsqqojjwmbgha9/RVF-EESE-Executive-Summary-Nov-2019.pdf?rlkey=kdvtsiv4g2m8s4npss3u4qorr&st=rv95aeiw&dl=0"
-    - Crimean-Congo hemorrhagic fever virus ecology in Tanzania: "https://www.dropbox.com/scl/fi/2u0gfaeqqe6zyqk277cpo/CCHF-Executive-Summary.pdf?rlkey=ag0ml5q8kos75cadifcrg13k0&st=nwgm95a8&dl=0"
-    - PREDICT and PREDICT2: "https://ohi.vetmed.ucdavis.edu/programs-projects/predict-project/about"
+  Projects: "Projects"
+  #Projects:
+  #  - Rift Valley fever in South Africa: "https://www.dropbox.com/scl/fi/wy873l4rsqqojjwmbgha9/RVF-EESE-Executive-Summary-Nov-2019.pdf?rlkey=kdvtsiv4g2m8s4npss3u4qorr&st=rv95aeiw&dl=0"
+  #  - Crimean-Congo hemorrhagic fever virus ecology in Tanzania: "https://www.dropbox.com/scl/fi/2u0gfaeqqe6zyqk277cpo/CCHF-Executive-Summary.pdf?rlkey=ag0ml5q8kos75cadifcrg13k0&st=nwgm95a8&dl=0"
+  #  - PREDICT and PREDICT2: "https://ohi.vetmed.ucdavis.edu/programs-projects/predict-project/about"
 
   Resources:
     - Statistical Inference: "https://github.com/rmcelreath/stat_rethinking_2023"
@@ -105,6 +106,16 @@ social-network-links:
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 #rss-description: This website is a virtual proof that I'm awesome
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+
+collections:
+  Projects:
+    output: true
+    permalink: /:collection/:title/
+
 
 ###########################
 # --- General options --- #
