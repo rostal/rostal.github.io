@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resume: "Resume"
   Publications: "Publications"
-  Projects: "projects"
+  #Projects: "projects"
   #Projects:
   #  - Rift Valley fever in South Africa: "https://www.dropbox.com/scl/fi/wy873l4rsqqojjwmbgha9/RVF-EESE-Executive-Summary-Nov-2019.pdf?rlkey=kdvtsiv4g2m8s4npss3u4qorr&st=rv95aeiw&dl=0"
   #  - Crimean-Congo hemorrhagic fever virus ecology in Tanzania: "https://www.dropbox.com/scl/fi/2u0gfaeqqe6zyqk277cpo/CCHF-Executive-Summary.pdf?rlkey=ag0ml5q8kos75cadifcrg13k0&st=nwgm95a8&dl=0"
@@ -160,6 +160,8 @@ keywords: "veterinary epidmeiology, Rift Valley fever, vector-borne zoonoses, Cr
 
 # enables categorization of projects into multiple categories
 enable_project_categories: true 
+enable_masonry: true # enables automatic project cards arrangement
+#enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 ######################################
 # --- Colours / background image --- #
 ######################################
