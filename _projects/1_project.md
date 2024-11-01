@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 <style>
-p.caption {
+div.caption {
   font-size: 0.6em;
 }
 </style>
