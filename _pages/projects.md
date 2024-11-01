@@ -9,7 +9,7 @@ display_categories: [work]
 horizontal: false
 ---
 
-#Code of all of this is from https://github.com/alshedivat/al-folio/tree/main
+
 
 <!-- pages/projects.md -->
 <div class="projects">
