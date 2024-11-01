@@ -159,7 +159,7 @@ navbar-var-length: false
 keywords: "veterinary epidmeiology, Rift Valley fever, vector-borne zoonoses, Crimean-Congo hemorrhagic fever"
 
 # enables categorization of projects into multiple categories
-enable_project_categories: true 
+enable_project_categories: false 
 enable_masonry: true # enables automatic project cards arrangement
 #enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 ######################################
