@@ -8,6 +8,13 @@ category: work
 related_publications: true
 ---
 
+<style>
+p.caption {
+  font-size: 0.6em;
+}
+</style>
+
+
 This represents a 10-year collaboration of DTRA-funded research on Rift Valley fever virus in South Africa. The Understanding Rift Valley Fever in the Republic of South Africa (2014-2019) and the Reducing the Threat of Rift Valley Fever through Ecology, Epidemiology and Socio-Economics (2019-2024) projects used a One Health approach to take a whole-of-system look at understanding Rift Valley fever outbreaks, circulation and impacts. 
 
 During this time we have made a substantial contribution to the current understanding of RVFV ecology and epidemiology and more analyses are still underway.
