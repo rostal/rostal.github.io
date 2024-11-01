@@ -16,7 +16,7 @@ During this time we have made a substantial contribution to the current understa
         {% include figure.liquid loading="eager" path="assets/img/RVF_pic2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RVF_pic3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RVF_pic3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/RVF_pic4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
