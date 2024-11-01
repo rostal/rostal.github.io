@@ -44,8 +44,8 @@ During this time we have made a substantial contribution to the current understa
 
 While we answered many questions, there are still more questions to answer - after all, we’ve only been studying RVFV this intensively for a portion (0.33) of the ~30 years South Africa experiences between large, widespread outbreaks. Our research here will be ongoing.
 
-
 We appreciate all of the contributions of our partners and stakeholders.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/RVF_stake2023.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -55,4 +55,15 @@ We appreciate all of the contributions of our partners and stakeholders.
     Partners and stakeholders at our annual meeting in Pretoria on August 2, 2024
 </div>
 
+This work was a collaboration that was led by EcoHealth Alliance, the National Institute for Communicable Diseases and the University of Pretoria. Several South African and U.S.-based institutions were collaborating partners for various periods of time during the 10-year project.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/RVF_part_logs.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Partners that contributed to the work include: EcoHealth Alliance; the National Institute for Communicable Diseases; the University of Pretoria; ExecuVet; the Agricultural Research Council - Onderstepoort Veterinary Research, Economic Analysis Unit and Soil, Climate and Water; Oak Ridge National Laboratory; South Africa National Parks; The University of Tennessee, Knoxville;  One Health Consulting; the Free State Department of Economic Development, Tourism and Environmental Affairs; the University of the Free State and the South African Defence Force.
+</div>
 
