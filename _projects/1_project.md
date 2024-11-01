@@ -4,7 +4,7 @@ title: Rift Valley fever
 description: RVF epidemiology and ecology
 img: assets/img/RVF_pic1.jpeg
 importance: 1
-category: work
+#category: work
 related_publications: true
 ---
 
