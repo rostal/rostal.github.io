@@ -29,13 +29,15 @@ The programs were focused on developing diagnostic capacity within in-country la
     </div>
 </div>
 <div class="caption">
-    Left a mosquito marked with fluorescent powder during our capture-mark-recapture study (credit: Ms. Takalani Makhanthisa). Middle, field team member collecting a blood sample from a study sheep. Right, a weather station in a flooded pan at a study site in the Free State South Africa (credit: Dr. Assaf Anyamba).
+    Left sampling a rodent under anesthesia. Middle, macaques that were part of the troop that we sampled. Right, releasing a fliying fox after sampling.
 </div>
 
-- We used a novel One Health approach to sample people, livestock, wildlife, and vectors simultaneously.
-- We collected and identified more than 2,000 ticks and CCHFV was not confirmed in any of the ticks collected to date.
-- We completed a One Health serosurvey in northern Tanzania (from Arusha to Serengeti) in people cattle and small mammals. Like studies that have come before us, we found that people and animals in Tanzania have been exposed to CCHFV. 
-- We supported 1-4 years of work for 4 graduate students. Our students are in their final year (see below) and are continuing to work on several of the analyses and critical outputs of this project. 
+- As a EcoHealth Alliance's Surveillance Coordinator, Outbreak Coordinator, Latin American Regional Lead and Bangladesh Country Liaison I worked directly with and/or supported teams in Mexico, Bolivia, Brazil, Colombia, Bangladesh, Malaysia, India, Indonesia, Thailand and China and was part of the global surveillance team for all 30+ countries that were part of PREDICT and PREDICT-2.
+- We established and/or supported local wildlife virus surveillance systems: from the field, to the laboratory, to reporting to the results.
+- Together, we identified 1,173 unique viruses in wildlife, domestic animals, and humans. Of these, 958 were new viruses previously unknown to science, 215 were known viruses.
+- Pandemic mitigation measures, such as direct forest protection payments, could achieve a 40% reduction in risk, and pandemic prevention costs over a 10-year period would only equal ~2% of the global costs of the COVID-19 pandemic.
+- we successfully trained, supported, and networked >6,000 wildlife, veterinary, and human health professionals from local, subnational, and national levels and facilitated knowledge-sharing and ongoing working relationships, breaking down historical barriers between sectors and disciplines.
+- Our partner laboratories, who used PREDICT protocols, were the first to be able to diagnose COVID-19 during the early days of the pandemic, before the WHO assay was available.
 
 We appreciate all of the contributions of our partners and stakeholders.
 
@@ -45,19 +47,17 @@ We appreciate all of the contributions of our partners and stakeholders.
     </div>
 </div>
 <div class="caption">
-    Partners and stakeholders at our annual meeting in Pretoria on August 2, 2024
+    PREDICT partners at one of our first meetings in Kuala Lumpur, Malaysia at our international PREDICT meeting in 2011.
 </div>
 
-This work was a collaboration that was led by EcoHealth Alliance, Kilimanjaro Clinical Research Institute, the Tanzania Veterinary Laboratory Agency, University of Glasgow and Washington State University. Several Tanzanian and U.K.-based institutions were collaborating partners on the project.
+This work was a collaboration that was led by University of California, Davis, EcoHealth Alliance, Wildlife Conservation Society, the Smithsonian Institute, and Metabiota and included many in-country and global partners. 
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CCHF_part_logs.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PREDICT_part_logs.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Partners that contributed to the work include: EcoHealth Alliance, Kilimanjaro Clinical Research Institute, the Tanzania Veterinary Laboratory Agency, University of Glasgow,  Washington State University, Tanzania Wildlife Research Institute, UK Agency for Health Security and Global Animal Health-Tanzania.
-</div>
 
-This project was funded by the Biological Threat Reduction Program, Defense Threat Reduction Agency, US Department of Defense.
+
+This project was funded by the United States Agency for International Development's (USAID's) Emerging Pandemic Threats Program.
