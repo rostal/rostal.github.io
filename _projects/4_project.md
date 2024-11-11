@@ -2,7 +2,7 @@
 layout: page
 title: One Health  
 description: Data management and analysis
-img: assets/img/OHPower.jpeg
+img: assets/img/OHPower.jpg
 importance: 2
 category: work
 related_publications: true
