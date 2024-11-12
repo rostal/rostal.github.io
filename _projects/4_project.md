@@ -29,9 +29,15 @@ In this work we focus on designing systems for One Health research, from data de
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/OHPower_pic1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/OHPower_pic2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/OHPower_pic3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
-    One Health Research.
+    Left a mosquito marked with fluorescent powder during our capture-mark-recapture study (credit: Ms. Takalani Makhanthisa). Middle, field team member collecting a blood sample from a study sheep. Right, a weather station in a flooded pan at a study site in the Free State South Africa (credit: Dr. Assaf Anyamba).
 </div>
 - We collected more than 700,000 mosquitoes and among those identified, we found that the majority were species that could support RVFV transmission. We described the community of mosquitoes on 22 different pans to determine how mosquitoes species interact and replace each other as the environment shifted from drought (2015-16) to flooding (2021-22) (Gregory et al, In Prep).
 - We showed that the order in which mosquitoes hatch in the Free State's temporary wetlands (dambos or pans) after the rains was exactly as it was described in Kenya, where the floodwater _Aedes_ are present several days prior to the increase in other mosquito species’ populations (Guarido et al, In Prep).
