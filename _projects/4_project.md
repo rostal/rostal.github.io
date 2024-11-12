@@ -37,11 +37,9 @@ As One Health approaches become implemented more broadly, data analysis frequent
 
 In this work we focus on designing systems for One Health research, from data design to data management to data analysis using joint inference. 
 
+Regarding study design, epidemiological methods assume that individuals or clusters are selected with a probability to population size. If population size and density between species (e.g. people and livestock) are not correlated or is unknown, then selecting one population will reduce or even negate the representativeness of the survey in another species. Ecological study designs often result in less representative data at the population level because the population size and density of many wild species is not known. 
 
-
-Regarding study design, epidemiological methods assume that individuals or clusters are selected with a probability to population size. If population size and density between species (e.g. people and livestock) are not correlated or is unknown, then selecting one population will reduce or even negate the representativeness of the survey in another species.
-
-Ecological study designs often result in less representative data at the population level because the population size and density of many wild species is not known. We developed a solution that integrates epidemiological and ecological study designs to improve representativeness of One Health studies of zoonotic diseases. 
+We developed a solution that integrates epidemiological and ecological study designs to improve representativeness of One Health studies of zoonotic diseases. 
 <img src="/assets/img/OHPower_grid.jpg" align="right" width="200px"/>
 We used a systematic approach by applying a grid of geographic points over the study area to systematically sample the populations while providing for post-hoc weighting of each individual population by density.
 
