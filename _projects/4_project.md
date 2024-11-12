@@ -59,5 +59,5 @@ To support reproducibility, we used a targets workflow using the targets package
 </div>
 <div class="caption">
     The data management, cleaning and archiving workflow used by the ohcleandat package. 
-    <a href="[https://ropensci.org/blog/2024/09/17/deposits-in-the-wild/]">Figure by Collin Schwantes!</a> ()! .
+    <a href="[https://ropensci.org/blog/2024/09/17/deposits-in-the-wild/]">Figure by Collin Schwantes!</a>.
 </div>
