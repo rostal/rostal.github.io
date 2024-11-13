@@ -24,10 +24,7 @@ navbar-links:
   Resume: "Resume"
   Publications: "Publications"
   Projects: "projects"
-  #Projects:
-  #  - Rift Valley fever in South Africa: "https://www.dropbox.com/scl/fi/wy873l4rsqqojjwmbgha9/RVF-EESE-Executive-Summary-Nov-2019.pdf?rlkey=kdvtsiv4g2m8s4npss3u4qorr&st=rv95aeiw&dl=0"
-  #  - Crimean-Congo hemorrhagic fever virus ecology in Tanzania: "https://www.dropbox.com/scl/fi/2u0gfaeqqe6zyqk277cpo/CCHF-Executive-Summary.pdf?rlkey=ag0ml5q8kos75cadifcrg13k0&st=nwgm95a8&dl=0"
-  #  - PREDICT and PREDICT2: "https://ohi.vetmed.ucdavis.edu/programs-projects/predict-project/about"
+  
 
   #Resources:
   #  - Statistical Inference: "https://github.com/rmcelreath/stat_rethinking_2023"
@@ -142,7 +139,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: false
