@@ -1,13 +1,7 @@
 ---
 layout: home
 title: "One Health Research Consulting" | "One Health solutions for complex problems"
-subtitle: 
-use-site-title: true
-cover-img:
-  - "/assets/img/big-imgs/Windmill_cover.jpg" : "Free State South Africa"
-  - "/assets/img/big-imgs/Zebras_cover.jpg" : "Grevy zebras"
-  - "/assets/img/big-imgs/Elephant_cover.jpg" : "Elephant in Maaasai Mara"
-  - "/assets/img/big-imgs/camels_drinking_cover.jpg" : "Precious water"
+
 ---
 
 
