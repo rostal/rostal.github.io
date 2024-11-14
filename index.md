@@ -32,8 +32,8 @@ title: "One Health Research Consulting | One Health solutions for complex proble
     <div class="section-title">What We Offer</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
-        <div class="service-text">Building or improving Shiny apps of any complexity</div>
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Services_icon1.png" />
+        <div class="service-text">Designing One Health research programs</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
