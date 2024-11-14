@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "One Health Research Consulting" | "One Health solutions for complex problems"
+title: "One Health Research Consulting | One Health solutions for complex problems"
 
 ---
 
