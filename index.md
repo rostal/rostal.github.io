@@ -37,17 +37,17 @@ title: "One Health Research Consulting | One Health solutions for complex proble
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
-        <div class="service-text">Group workshops and private tutoring</div>
+        <div class="service-text">Epidemiology of vector-borne disease systems</div>
       </div>
 	    
       <div id="services-break"></div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
-        <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
+        <div class="service-text">Building One Health collaborations</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
-        <div class="service-text">Professional quality R packages and custom solutions</div>
+        <div class="service-text">Workshops or trainings on field epidemiology, epidemiological analyses and One Health</div>
       </div>
     </div>
 
