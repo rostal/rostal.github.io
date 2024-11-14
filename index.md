@@ -36,7 +36,7 @@ title: "One Health Research Consulting | One Health solutions for complex proble
         <div class="service-text">Designing One Health research programs</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/ico_VBDs.png" />
         <div class="service-text">Epidemiology of vector-borne disease systems</div>
       </div>
 	    
