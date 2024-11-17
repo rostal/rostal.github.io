@@ -40,7 +40,7 @@ ext-js:
     <div id="services-list">
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_services.png" />
-        <div class="service-text">Designing One Health research programs</div>
+        <div class="service-text">Designing One Health programs</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_VBDs.png" />
