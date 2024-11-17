@@ -16,7 +16,7 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# One Health Research Consulting {#title}
+# One Health Research {#title}
 
 ## One Health solutions for complex problems {#subtitle}
 
