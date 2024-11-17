@@ -39,12 +39,12 @@ ext-js:
     <div class="section-title">What We Offer</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_servcices.png" />
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_services.png" />
         <div class="service-text">Designing One Health research programs</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_VBDs.png" />
-        <div class="service-text">Epidemiology of vector-borne disease systems</div>
+        <div class="service-text">Epidemiology of vector-borne pathogens</div>
       </div>
 	    
       <div id="services-break"></div>
@@ -54,7 +54,7 @@ ext-js:
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_training.png" />
-        <div class="service-text">Trainings on field epidemiology, epidemiological analyses and One Health</div>
+        <div class="service-text">Trainings: epidemiology and One Health</div>
       </div>
     </div>
 
