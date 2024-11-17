@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: base
 title: "One Health Research Consulting | One Health solutions for complex problems"
 css:
   - /assets/css/index.css
