@@ -214,8 +214,7 @@ footer {
 
 #services {
   display: block;
-  margin: 0 2rem;
-  
+  margin: 0 auto;
   text-shadow: 0 1px #fff;
 }
 #services .service {
