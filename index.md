@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "One Health Research Consulting | One Health solutions for complex problems"
+title: "One Health Research | One Health solutions for complex problems"
 css:
   - /assets/css/index.css
 ext-css:
@@ -71,7 +71,7 @@ ext-js:
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
-      AttaliTech was launched in 2016 as the world's <b>first</b> Shiny consulting firm. The goal was simple: provide a one-stop shop for any and all of your Shiny needs, while adhering to the <b>highest standards</b>. Today, AttaliTech is a <b>global leader</b> in providing top quality R/Shiny services and is trusted by over 100 companies worldwide. We take pride in knowing you won't get better quality anywhere else.<br/><br/><b>We're certain of it.</b>
+      One Health Research Consulting was launched in 2024 as the world's <b>first</b> Shiny consulting firm. The goal was simple: provide a one-stop shop for any and all of your Shiny needs, while adhering to the <b>highest standards</b>. Today, AttaliTech is a <b>global leader</b> in providing top quality R/Shiny services and is trusted by over 100 companies worldwide. We take pride in knowing you won't get better quality anywhere else.<br/><br/><b>We're certain of it.</b>
     </div>
   </div>
 </div>
