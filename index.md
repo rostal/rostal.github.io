@@ -39,22 +39,22 @@ ext-js:
     <div class="section-title">What We Offer</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Services_icon1.png" />
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_servcices.png" />
         <div class="service-text">Designing One Health research programs</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/ico_VBDs.png" />
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_VBDs.png" />
         <div class="service-text">Epidemiology of vector-borne disease systems</div>
       </div>
 	    
       <div id="services-break"></div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_network.png" />
         <div class="service-text">Building One Health collaborations</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
-        <div class="service-text">Workshops or trainings on field epidemiology, epidemiological analyses and One Health</div>
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_training.png" />
+        <div class="service-text">Trainings on field epidemiology, epidemiological analyses and One Health</div>
       </div>
     </div>
 
