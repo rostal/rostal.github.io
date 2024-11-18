@@ -67,7 +67,7 @@ ext-css:
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
-      One Health Research Consulting was launched in 2024 to provide innovative One Health guidance and  as the world's <b>first</b> Shiny consulting firm. The goal was simple: provide a one-stop shop for any and all of your Shiny needs, while adhering to the <b>highest standards</b>. Today, AttaliTech is a <b>global leader</b> in providing top quality R/Shiny services and is trusted by over 100 companies worldwide. We take pride in knowing you won't get better quality anywhere else.<br/><br/><b>We're certain of it.</b>
+      The need for One Health solutions to global health challenges has never been greater. One Health Research Consulting was launched in 2024 to work at the interface of wildlife, domestic animals and people. In the face of human caused environmental changes, climate change, land use change and increasing pressure for globalization we use scientific methods to identify risk factors and critical control points through field and theoretical epidemiology and ecology. One Health Research Consulting was founded by [Dr. Melinda Rostal](https://rostal.github.io/aboutme/), who has been developing One Health research programs for 15 years. Additionally, our network of partners, collaborators and scientist can be mobilized as needed to support your One Health goals. We will work with you to identify the best One Health solution for your problem. 
     </div>
   </div>
 </div>
