@@ -94,8 +94,8 @@ ext-js:
 
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
-    <div class="section-title">Clients</div>
-    <div id="clients-subtitle">Clients range from startups to universities to Fortune 500 companies</div>
+    <div class="section-title">Where we work</div>
+    <div id="clients-subtitle">We have experience working with academic, non-governmental and governmental partners and collaborators in over 20 countries</div>
     <div id="client-logos">
       {% for client in site.data.clients %}
         <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
