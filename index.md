@@ -9,6 +9,8 @@ js:
   - /assets/js/index.js
 ext-js:
   - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
+
+selected_projects: true # includes a list of papers marked as "selected={true}"
 ---
 
 
