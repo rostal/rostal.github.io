@@ -48,7 +48,7 @@ footer {
 #header {
   text-align: center;
   margin-top: 3.125rem;
-  background-image: url(../big-imgs/cover_camels_and_watering hole_bw.png);
+  background-image: url("../big-imgs/cover_camels_and_watering hole_bw.png");
   background-color: #05172d;
   padding: 10rem 0 13rem;
   color: #fff;
