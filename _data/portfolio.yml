@@ -1,12 +1,12 @@
 - title: Rift Valley fever
   description: RVF epidemiology and ecology
-  img: assets/img/RVF_pic1.png
+  img: RVF_pic1.png
   url: https://rostal.github.io/projects/1_project/
 - title: CCHF
   description: Crimean-Congo hemorrhagic fever epidemiology
-  img: assets/img/CCHF_pic1.png
+  img: CCHF_pic1.png
   url: https://rostal.github.io/projects/2_project/
 - title: One Health 
   description: Data management and analysis
-  img: assets/img/OHPower.png
+  img: OHPower.png
   url: https://rostal.github.io/projects/4_project/
