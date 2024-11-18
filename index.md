@@ -9,7 +9,7 @@ ext-css:
 ---
 
 
-<div id="header-inner" markdown="1">
+
 
 <div id="header" class="cut1" markdown="1">
 
