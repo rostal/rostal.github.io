@@ -108,19 +108,6 @@ ext-js:
 
 <div class="cut-buffer"></div>
 
-<div id="aboutme-section-out" class="page-section grey-section cut2">
-  <div id="aboutme-section">
-    <div class="section-title">About the Founder</div>
-	<div id="aboutme-list" markdown="1">
-{% for info in site.data.main_info %}
-{% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
-<span class="about-content">{{ info.content }}</span>
-{: .about-text }
-{% endfor %}
-</div>
-  </div>
-</div>
-
 
 <div class="cut-buffer portfolio-buffer"></div>
 
