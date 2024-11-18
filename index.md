@@ -27,7 +27,6 @@ ext-css:
 
 </div>
 
-</div>
 
 <div id="main-sections">
 
