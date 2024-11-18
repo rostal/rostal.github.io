@@ -152,6 +152,38 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
+/* Buttons */
+
+.actionbtn {
+  display: inline-block;
+  margin: 0.5rem 0;
+  font-family: arial;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0.9375rem 3rem;
+  border-radius: 5rem;
+  background: #4fc949;
+  font-size: 1.25rem;
+  color: #fff;
+  text-decoration: none !important;
+  cursor: pointer;
+  letter-spacing: 1px;
+  text-shadow: none;
+}
+.actionbtn:hover,
+.actionbtn:focus {
+  background: #3fb13a;
+  color: #fff;
+}
+
+.actionbtn .far {
+  margin-right: 0.3125rem;
+}
+
+.btn[disabled] {
+  cursor: not-allowed;
+}
+
 # navbar-col: "#F5F5F5"
 # navbar-text-col: "#404040"
 # navbar-children-col: "#F5F5F5"
