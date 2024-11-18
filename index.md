@@ -121,24 +121,6 @@ ext-js:
   </div>
 </div>
 
-<div class="cut-buffer portfolio-buffer"></div>
-
-<div id="portfolio-out" class="page-section grey-section">
-  <div id="portfolio">
-    <div class="section-title">
-      Projects
-    </div>
-    <a href="/contact" class="actionbtn">
-    <span class="far fa-envelope" aria-hidden="true"></span>
-    Contact Us
-  </a>
-	
-    </div>
-  </div>
-
-
-
-
 
 <div class="cut-buffer portfolio-buffer"></div>
 
@@ -151,7 +133,7 @@ ext-js:
       {% for app in site.data.portfolio %}
 	    <div class="shinyapp">
           <a class="applink" href="{{ app.url }}">
-            <img class="appimg" src="/assets/img/screenshots/{{ app.img }}" />
+            <img class="appimg" src="/assets/img/{{ app.img }}" />
             <div class="apptitle">{{ app.title }}</div>
             <div class="appdesc">{{ app.description }}</div>
           </a>
