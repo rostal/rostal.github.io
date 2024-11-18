@@ -71,7 +71,7 @@ ext-js:
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
-      One Health Research Consulting was launched in 2024 as the world's <b>first</b> Shiny consulting firm. The goal was simple: provide a one-stop shop for any and all of your Shiny needs, while adhering to the <b>highest standards</b>. Today, AttaliTech is a <b>global leader</b> in providing top quality R/Shiny services and is trusted by over 100 companies worldwide. We take pride in knowing you won't get better quality anywhere else.<br/><br/><b>We're certain of it.</b>
+      One Health Research Consulting was launched in 2024 to provide innovative One Health guidance and  as the world's <b>first</b> Shiny consulting firm. The goal was simple: provide a one-stop shop for any and all of your Shiny needs, while adhering to the <b>highest standards</b>. Today, AttaliTech is a <b>global leader</b> in providing top quality R/Shiny services and is trusted by over 100 companies worldwide. We take pride in knowing you won't get better quality anywhere else.<br/><br/><b>We're certain of it.</b>
     </div>
   </div>
 </div>
@@ -82,8 +82,9 @@ ext-js:
   <div id="values">
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
-      At AttaliTech, we care about good code, good user experience, and doing things <b>right</b>.<br/><br/>
-      We believe in developing every project as if it's your own, <b>never </b>compromising on code quality or end-user experience. We focus on more than just delivering a final product - we're always looking for ways to add more <b>value</b> to our clients. Our clients enjoy peace of mind knowing they can trust us to deliver clean, robust, maintainable code that just works.
+      Zoonotic diseases are complex systems that require integrated responses. We use our expertise in building strong, multidisciplinary coalitions and bring a scientific One Health approach to solving zoonotic threats. 
+
+     We believe in <b>collaboration<b>, building trust though open and equal partnerships. Bringing <b>scientific excellence<b> to deliver exceptional, rigorous and evidence-based solutions using a One Health approach. We focus on aspects of disease ecology and epidemiology that be used to support and improve veterinary, environmental and public health <b>policy<b>.
     </div>
     <a href="/contact" class="actionbtn">
       Work With Us
