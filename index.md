@@ -126,7 +126,7 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div class="section-title">
-      Open-Sourced Shiny Apps
+      Projects
     </div>
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}
@@ -144,7 +144,7 @@ ext-js:
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">Take Your Shiny Apps to the Highest Level</div><br/>
+    <div class="section-title">Let's Make YOUR One Health Solution Today</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>
