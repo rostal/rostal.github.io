@@ -16,7 +16,7 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# One Health Research {#title}
+# One Health Research Consulting {#title}
 
 ## One Health solutions for complex problems {#subtitle}
 
@@ -84,7 +84,7 @@ ext-js:
     <div id="values-text">
       Zoonotic diseases are complex systems that require integrated responses. We use our expertise in building strong, multidisciplinary coalitions and bring a scientific One Health approach to solving zoonotic threats. 
 
-     We believe in <b>collaboration<b>, building trust though open and equal partnerships. Bringing <b>scientific excellence<b> to deliver exceptional, rigorous and evidence-based solutions using a One Health approach. We focus on aspects of disease ecology and epidemiology that be used to support and improve veterinary, environmental and public health <b>policy<b>.
+     We believe in <b>collaboration</b>, building trust though open and equal partnerships. Bringing <b>scientific excellence</b> to deliver exceptional, rigorous and evidence-based solutions using a One Health approach. We focus on aspects of disease ecology and epidemiology that be used to support and improve veterinary, environmental and public health <b>policy</b>.
     </div>
     <a href="/contact" class="actionbtn">
       Work With Us
