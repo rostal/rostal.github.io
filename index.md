@@ -5,8 +5,6 @@ css:
   - /assets/css/index.css
 ext-css:
   - //fonts.googleapis.com/css?family=Roboto:400,700
-js:
-  - /assets/js/index.js
 
 ---
 
