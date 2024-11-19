@@ -5,8 +5,8 @@ layout: widepage
 
 
 <div style="display: flex; justify-content: center;">
-
-#Resume {#title}
+      
+<h6>Resume</h6>
 
 </div>
 <div style="display: flex; justify-content: center;">
