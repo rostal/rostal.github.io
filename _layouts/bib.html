@@ -4,11 +4,11 @@
 {% if entry.doi %}
   <div style="margin-bottom: 1em;">
     {{ reference | remove: entry.doi | remove: 'https://doi.org/' }} <a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI: {{ entry.doi }}</a>
-    {{ reference | replace_first: 'Rostal, Melinda K.', '<b>Rostal, Melinda K.</b>' }}"
+    {{ reference | replace_first: 'Rostal, Melinda K.', '<b>Rostal, Melinda K.</b>' }}
     </div>
 {% else %}
   <div style="margin-bottom: 1em;">
     {{ reference }}
-    {{ reference | replace_first: 'Rostal, Melinda K.', '<b>Rostal, Melinda K.</b>' }}"
+
     </div>
 {% endif %}
