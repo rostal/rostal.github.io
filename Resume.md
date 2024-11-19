@@ -1,6 +1,7 @@
 ---
 layout: widepage
 title: Resume
+justify-content: center
 ---
 
 <div style="display: flex; justify-content: center;">
