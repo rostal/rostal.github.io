@@ -3,11 +3,16 @@
 
 {% if entry.doi %}
   <div style="margin-bottom: 1em;">
-    {{ reference | replace_first: 'Rostal, M. K.', '<b>Rostal, M. K.</b>';
-                  remove: entry.doi | remove: 'https://doi.org/' }} <a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI: {{ entry.doi }}</a>
+    {{ reference | remove: entry.doi | remove: 'https://doi.org/' }} <a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI: {{ entry.doi }}</a>
     </div>
 {% else %}
   <div style="margin-bottom: 1em;">
+    {{ reference | replace_first: 'Rostal, M. K.', '<b>Rostal, M. K.</b>' }}
+    </div>
+{% endif %}
+
+{% if entry.doi %}
+<div
     {{ reference | replace_first: 'Rostal, M. K.', '<b>Rostal, M. K.</b>' }}
     </div>
 {% endif %}
