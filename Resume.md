@@ -7,3 +7,7 @@ title: Resume
         <img src="{{ site.baseurl }}/assets/img/Rostal_Resume_2024.png" alt="Resume" style="width: 100%; max-width: 1000px; height: auto;">
     </a>
 </div>
+
+<a href="{{ site.baseurl }}/assets/img/Rostal_Resume_2024.pdf" download> class="actionbtn">
+      Full Curriculum Vitae
+    </a>
