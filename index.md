@@ -122,7 +122,7 @@ ext-css:
 	    <a href="https://rostal.github.io/projects/" class="actionbtn">
     See more projects here
   </a> 
-  </div>
+ 
     </div>
   </div>
 </div>
@@ -137,3 +137,4 @@ ext-css:
   </a>
 </div>
 
+ </div>
