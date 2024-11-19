@@ -46,8 +46,11 @@ scholar:
   style: apa
   bibliography: works.bib
   bibliography_template: bib
+  bibliography_template: "{{ reference | replace_first: 'Rostal, Melinda K.', '<b>Rostal, Melinda K.</b>' }}"
   details_link: "https://doi.org/%{doi}"
   details_label: "DOI"
+  
+  
 
 
 #####################################
