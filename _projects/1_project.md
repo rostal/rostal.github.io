@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rift Valley fever 
-description: RVF epidemiology and ecology
+title: Rift Valley Fever 
+description: Rift Valley fever epidemiology and ecology
 img: assets/img/RVF_pic1.jpeg
 importance: 1
 category: work
