@@ -48,8 +48,12 @@ scholar:
   bibliography_template: bib
   details_link: "https://doi.org/%{doi}"
   details_label: "DOI"
-  
-  
+
+  #Bold my name -attempt 5000
+  gems:
+  - 'jekyll/scholar'
+scholar:
+  bibliography_template: "{{ reference | replace_first: 'Zelle, R. M.', '<b>Zelle, R. M.</b>' }}"
 
 
 #####################################
