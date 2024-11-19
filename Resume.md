@@ -3,11 +3,12 @@ layout: widepage
 
 ---
 
-<div id="header" class="cut1" markdown="1">
 
+<div style="display: flex; justify-content: center;">
 
-# Resume {#title}
+### Resume {#title}
 
+</div>
 <div style="display: flex; justify-content: center;">
 <a href="{{ site.baseurl }}/assets/img/Rostal CV 09-24-2024.pdf" class="actionbtn" download>
       Full Curriculum Vitae
