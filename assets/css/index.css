@@ -62,7 +62,7 @@ footer {
 
 #header a {
   color: #fff;
-  text-decoration: outline;
+  text-decoration: underline;
 }
 #header a:hover {
   color: #fff;
