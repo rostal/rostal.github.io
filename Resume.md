@@ -6,7 +6,7 @@ layout: widepage
 
 <div style="display: flex; justify-content: center;">
       
-<h6>Resume</h6>
+<h1>Resume</h1>
 
 </div>
 <div style="display: flex; justify-content: center;">
