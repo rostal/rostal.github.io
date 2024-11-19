@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Rift Valley fever Cast
+title: Open Rift Valley Fever Cast
 description: An open-access system to improve predicitons of RVF outbreaks.
 img: assets/img/RVFCast_pic1.jpg
 importance: 5
