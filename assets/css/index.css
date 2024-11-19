@@ -78,6 +78,7 @@ footer {
   font-size: 4rem;
   font-weight: bold;
   line-height: 1.4;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 #subtitle  {
