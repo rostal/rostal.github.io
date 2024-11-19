@@ -62,7 +62,8 @@ footer {
 
 #header a {
   color: #fff;
-  text-decoration: underline;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  
 }
 #header a:hover {
   color: #3380d4;
