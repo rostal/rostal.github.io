@@ -1,8 +1,12 @@
 ---
 layout: widepage
-title: Resume
-justify-content: center
+
 ---
+
+<div id="header" class="cut1" markdown="1">
+
+
+# Resume {#title}
 
 <div style="display: flex; justify-content: center;">
 <a href="{{ site.baseurl }}/assets/img/Rostal CV 09-24-2024.pdf" class="actionbtn" download>
