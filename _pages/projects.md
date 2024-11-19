@@ -13,7 +13,7 @@ ext-css:
   <div id="portfolio_full">
 
     <div id="shinyapps-big">
-      {% for app in site.data.portfolio %}
+      {% for app in site.data.portfolio_full %}
 	    <div class="shinyapp">
           <a class="applink" href="{{ app.url }}">
             <img class="appimg" src="/assets/img/{{ app.img }}" />
