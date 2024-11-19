@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Projects
 permalink: /projects/
 css:
   - /assets/css/index.css
@@ -9,11 +9,9 @@ ext-css:
 
 ---
 
-<div id="portfolio_full-out" class="page-section grey-section">
+
   <div id="portfolio_full">
-    <div class="section-title">
-      Projects
-    </div>
+
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}
 	    <div class="shinyapp">
@@ -26,5 +24,4 @@ ext-css:
 	  {% endfor %}
 	
   </div>
-</div>
 </div>
