@@ -24,11 +24,7 @@ ext-css:
           </a>
         </div>
 	  {% endfor %}
-	</div>
-	    <a href="https://rostal.github.io/projects/" class="actionbtn">
-    See more projects here
-  </a> 
- 
-    </div>
+	
   </div>
+</div>
 </div>
