@@ -120,7 +120,6 @@ ext-css:
 	  {% endfor %}
 	</div>
 	    <a href="https://rostal.github.io/projects/" class="actionbtn">
-    <span class="far fa-envelope" aria-hidden="true"></span>
     See more projects here
   </a> 
   </div>
