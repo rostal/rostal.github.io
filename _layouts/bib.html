@@ -7,6 +7,6 @@
     </div>
 {% else %}
   <div style="margin-bottom: 1em;">
-    {{ reference }}
+    {{ reference | replace_first: 'Rostal, Melinda K.', '<b>Rostal, Melinda K.</b>' }}
     </div>
 {% endif %}
