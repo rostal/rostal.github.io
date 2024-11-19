@@ -9,8 +9,8 @@ ext-css:
 
 ---
 
-<div id="portfolio-out" class="page-section grey-section">
-  <div id="portfolio">
+<div id="portfolio_full-out" class="page-section grey-section">
+  <div id="portfolio_full">
     <div class="section-title">
       Projects
     </div>
