@@ -2,12 +2,11 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
-classes: wide
-nav_order: 3
-display_categories: [work]
-horizontal: false
+css:
+  - /assets/css/index.css
+ext-css:
+  - //fonts.googleapis.com/css?family=Roboto:400,700
+
 ---
 
 <div id="portfolio-out" class="page-section grey-section">
