@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: 
 permalink: /projects/
 css:
   - /assets/css/index.css
