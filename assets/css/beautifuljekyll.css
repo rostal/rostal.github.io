@@ -22,6 +22,7 @@ layout: null
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --header-align: 'center';
   --mid-col: #808080;
 }
 
