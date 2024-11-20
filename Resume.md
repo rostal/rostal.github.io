@@ -1,14 +1,9 @@
 ---
+title: Resume
 layout: widepage
 
 ---
 
-
-<div style="display: flex; justify-content: center;">
-      
-<h1>Resume</h1>
-
-</div>
 <div style="display: flex; justify-content: center;">
 <a href="{{ site.baseurl }}/assets/img/Rostal CV 09-24-2024.pdf" class="actionbtn" download>
       Full Curriculum Vitae
