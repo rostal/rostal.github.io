@@ -24,7 +24,10 @@ For any One Health Research Consulting inquiries, please send us a message using
   <div style="margin-top: 5px; display: flex; margin-bottom: 15px; font-size: 0.7rem;">
   </div>
 
-  [fix when we change the domain  <div class="g-recaptcha" data-sitekey="6LfaZoUqAAAAAAwSYZlmgEGbO5JTSWDYZVs9Gj7l" data-callback="enableSubmitContact"></div>]:<>
+  <!---
+  fix when we change the domain  <div class="g-recaptcha" data-sitekey="6LfaZoUqAAAAAAwSYZlmgEGbO5JTSWDYZVs9Gj7l" data-callback="enableSubmitContact"></div>
+  -->
+  
   <input type="hidden" name="_feedback.success.title" value="Thanks for contacting One Health Research Consulting, we'll be in touch shortly!" />
   <input type="hidden" name="_email.from" value="Formspark OHRC" />
   <input type="hidden" name="_feedback.error.title" value="An error occurred (did you check the &quot;I'm not a robot&quot; box?)" />
