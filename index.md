@@ -120,7 +120,7 @@ ext-css:
 	  {% endfor %}
 	</div>
 	    <a href="https://rostal.github.io/projects/" class="actionbtn">
-    See more projects here
+    See more projects
   </a> 
  
     </div>
