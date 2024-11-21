@@ -11,7 +11,7 @@ Note that before any work can be performed, a (virtual) meeting is usually held 
 
 For any One Health Research Consulting inquiries, please send us a message using the form below.
 
-<form action="https://submit-form.com/sV7y563V" class="form" id="contact-form">
+<form action="https://submit-form.com/js8XNUsyZ" class="form" id="Contact form">
   <div class="row">
     <div class="col-6">
       <input type="email" name="email" required="required" class="form-control input-lg" placeholder="Email" title="Email" style="margin-bottom: 15px;">
@@ -24,9 +24,8 @@ For any One Health Research Consulting inquiries, please send us a message using
   <div style="margin-top: 5px; display: flex; margin-bottom: 15px; font-size: 0.7rem;">
   </div>
 
-  <!---
-  fix when we change the domain  <div class="g-recaptcha" data-sitekey="6LfaZoUqAAAAAAwSYZlmgEGbO5JTSWDYZVs9Gj7l" data-callback="enableSubmitContact"></div>
-  -->
+ <div class="g-recaptcha" data-sitekey="6LfaZoUqAAAAAAwSYZlmgEGbO5JTSWDYZVs9Gj7l" data-callback="enableSubmitContact"></div>
+
   
   <input type="hidden" name="_feedback.success.title" value="Thanks for contacting One Health Research Consulting, we'll be in touch shortly!" />
   <input type="hidden" name="_email.from" value="Formspark OHRC" />
