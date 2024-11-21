@@ -33,7 +33,7 @@ For any One Health Research Consulting inquiries, please send us a message using
   <input type="hidden" name="_feedback.error.title" value="An error occurred (did you check the &quot;I'm not a robot&quot; box?)" />
 
   <br/>
-  <button id="submit_contact" type="submit" class="btn btn-lg btn-primary" disabled>Submit</button>
+  <button id="submit_contact" type="submit" class="btn btn-lg btn-primary" enabled>Submit</button>
 </form>
 
 Contacting us online is the best way to get in touch.
