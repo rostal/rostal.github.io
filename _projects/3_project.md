@@ -13,23 +13,23 @@ div.caption {
 }
 </style>
 
-The PREDICT and PREDICT-2 programs (2009-2019) were global programs aimed at strengthening global capacity for detection of viruses with pandemic potential that could move between animals and people.
+The PREDICT and PREDICT-2 projects (2009-2019) were global programs aimed at strengthening global capacity for the detection of viruses with pandemic potential that could move between animals and people.
 
-The programs were focused on developing diagnostic capacity within in-country laboratories, improving or developing emerging virus field surveillence systems and the capacity to conduct behavioral risk research, while identifying drivers of emergence, social and potential control points within economic systems and human behaviors to reduce the risk of emergence.
+The programs were focused on developing diagnostic capacity within in-country laboratories, improving or developing emerging virus field surveillance systems and the capacity to conduct behavioral risk research, while identifying drivers of emergence, social and potential control points within economic systems and human behaviors to reduce the risk of emergence.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/PREDICT_pic2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PREDICT_pic2.JPG" title="Rodent sampling" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/PREDICT_pic3.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PREDICT_pic3.JPG" title="Rhesus macaques" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/PREDICT_pic4.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PREDICT_pic4.JPG" title="Releasing a flying fox" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left sampling a rodent under anesthesia. Middle, macaques that were part of the troop that we sampled. Right, releasing a fliying fox after sampling.
+    Left sampling a rodent under anesthesia. Middle, macaques that were part of the troop that we sampled in Bangladesh. Right, releasing a flying fox after sampling in Bangladesh.
 </div>
 
 - As a EcoHealth Alliance's Surveillance Coordinator, Outbreak Coordinator, Latin American Regional Lead and Bangladesh Country Liaison I worked directly with and/or supported teams in Mexico, Bolivia, Brazil, Colombia, Bangladesh, Malaysia, India, Indonesia, Thailand and China and was part of the global surveillance team for all 30+ countries that were part of PREDICT and PREDICT-2.
@@ -39,11 +39,11 @@ The programs were focused on developing diagnostic capacity within in-country la
 - we successfully trained, supported, and networked >6,000 wildlife, veterinary, and human health professionals from local, subnational, and national levels and facilitated knowledge-sharing and ongoing working relationships, breaking down historical barriers between sectors and disciplines.
 - Our partner laboratories, who used PREDICT protocols, were the first to be able to diagnose COVID-19 during the early days of the pandemic, before the WHO assay was available.
 
-We appreciate all of the contributions of our partners and stakeholders.
+We appreciate all the contributions of our partners and stakeholders.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/PREDICT_stake2011.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PREDICT_stake2011.jpg" title="Partners in PREDICT 2011" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -55,9 +55,10 @@ This work was a collaboration that was led by University of California, Davis, E
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/PREDICT_part_logs.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PREDICT_part_logs.jpg" title="PREDICT partner logos" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
-This project was funded by the United States Agency for International Development's (USAID's) Emerging Pandemic Threats Program.
+These programs were funded by the United States Agency for International Development's (USAID's) Emerging Pandemic Threats Program.
+
