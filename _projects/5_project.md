@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Rift Valley Fever Cast
+title: Open RVFCast
 description: An open-access system to improve predicitons of RVF outbreaks.
 img: assets/img/RVFCast_pic1.jpg
 importance: 5
@@ -46,4 +46,4 @@ The model, running the South African model will be hosted on a dedicated website
     An example of the website hosting the model for South Africa. The website is not yet live.
 </div>
 
-This work was led by EcoHealth Alliance; the Agricultural Research Council - Soil, Climate and Water; Oak Ridge National Laboratory; The University of Tennessee, Knoxville; and One Health Consulting. It is being completed in collaboration with our South African partners: the National Institute for Communicable Diseases; the University of Pretoria; ExecuVet; and the Agricultural Research Council - Onderstepoort Veterinary Research and Economic Analysis Unit. It was/is supported by the the Reducing the Threat of Rift Valley Fever through Ecology, Epidemiology and Socio-Economics (2019-2024) project funded by DTRA and An Open Source Framework for Rift Valley Fever Forecasting (2022-2027) funded by the Wellcome Trust.
+This work was led by EcoHealth Alliance; the Agricultural Research Council - Soil, Climate and Water; Oak Ridge National Laboratory; The University of Tennessee, Knoxville; and One Health Consulting. It is being completed in collaboration with our South African partners: the National Institute for Communicable Diseases; the University of Pretoria; ExecuVet; and the Agricultural Research Council - Onderstepoort Veterinary Research and Economic Analysis Unit. It is supported by An Open Source Framework for Rift Valley Fever Forecasting (2022-2027) (Wellcome Trust) and was partially supported by the Reducing the Threat of Rift Valley Fever through Ecology, Epidemiology and Socio-Economics (2019-2024) project (DTRA).
