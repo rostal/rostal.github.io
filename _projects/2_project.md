@@ -18,7 +18,7 @@ The Crimean-Congo hemorrhagic fever: Reducing an emerging health threat in Tanza
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CCHF_pic2.jpg" title="Measuring morphometrics" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CCHF_pic2.png" title="Measuring morphometrics" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/CCHF_pic3.jpg" title="CCHF field set up" class="img-fluid rounded z-depth-1" %}
