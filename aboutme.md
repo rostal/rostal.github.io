@@ -19,5 +19,6 @@ I work to ensure we have a network of stakeholders outside of the projects to en
 As the consultant working at One Health Research Consulting, I also collaborate with many researchers that can either be brought on as consultants through One Health Research Consulting or subcontracted to through their own organization.
 
 Outside of my research, I enjoy hiking, outdoor photography and spending time with my family.
+photography and spending time with my family.
 
 
