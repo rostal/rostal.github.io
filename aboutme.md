@@ -16,9 +16,9 @@ I have significant analytical and data management experience. I am experienced i
 
 I work to ensure we have a network of stakeholders outside of the projects to ensure the goals of the project are both scientifically relevant and can be used by those most impacted by the diseases. To widen our communication outreach, we have used both community meetings and publications of research summaries in local periodicals for animal owners and have developed informational material working with communities and local artists to spread our message to those who are less literate.
 
-As the consultant working at One Health Research Consulting, I also collaborate with many researchers that can either be brought on as consultants through One Health Research Consulting or subcontracted to through their own organization.
+I started One Health Research Consulting because I believe that open, multidisciplinary, One Health programs are the only we can solve the problems barring the world from attaining true health and health equity. I am excited to share my experience with you and work as partners to develop new One Health solutions. As the consultant working at, I also collaborate with many researchers that can either be brought on as consultants through One Health Research Consulting or subcontracted to through their own organization.
 
 Outside of my research, I enjoy hiking, outdoor photography and spending time with my family.
-photography and spending time with my family.
+
 
 
