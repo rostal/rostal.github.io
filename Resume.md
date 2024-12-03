@@ -10,7 +10,7 @@ title: Resume
 </div>
 
 <div style="display: flex; justify-content: center;">
-<a href="{{ site.baseurl }}/assets/img/Rostal CV 09-24-2024.pdf" class="actionbtn" download>
+<a href="{{ site.baseurl }}/assets/img/Rostal CV 12-02-2024.pdf" class="actionbtn" download>
       Full Curriculum Vitae
     </a>
 </div>
