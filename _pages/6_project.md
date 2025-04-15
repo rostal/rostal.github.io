@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Science Communications
-permalink: /projects/6_projects/
+permalink: /projects/6_project/
 css:
   - /assets/css/index.css
 ext-css:
