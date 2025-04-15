@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Science communication
-description: Booklets and articles for the public.
-img: assets/img/Sci_comm_pic1.jpg
-importance: 5
-category: work
-related_publications: true
+title: Science Communications
+permalink: /sci_comms
+css:
+  - /assets/css/index.css
+ext-css:
+  - //fonts.googleapis.com/css?family=Roboto:400,700
 ---
 
 <div class="cut-buffer portfolio-buffer"></div>
@@ -26,7 +26,7 @@ related_publications: true
         </div>
 	  {% endfor %}
 	</div>
-	    <a href="https://rostal.github.io/projects/6_project" class="actionbtn">
+	    <a href="https://rostal.github.io/sci_coms" class="actionbtn">
     See more projects
   </a> 
  
