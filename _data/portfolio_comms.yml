@@ -13,5 +13,13 @@
 - title: Zoonoses in South Africa
   description: Booklet introducing Rift Valley fever and other zoonoses to the public in South Africa
   img: sci_comm_pic1.png
-  url: https://rostal.github.io/sci_comms/3_sci_com
+  url: https://rostal.github.io/sci_comms/4_sci_com
+- title: Monitoreo de la biodiveridad y la conservation con enfoque ecosistemico
+  description: Booklet describing monitoring methods for ecosystem health - in Spanish only
+  img: sci_comm_pic1.png
+  url: https://rostal.github.io/sci_comms/5_sci_com
+- title: Bornean Ape Health Surveillance and Monitoring Program
+  description: A 2014 plan developed with the Sabah Wildlife Department for health monitoring in apes
+  img: sci_comm_pic1.png
+  url: https://rostal.github.io/sci_comms/6_sci_com
 
