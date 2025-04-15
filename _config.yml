@@ -89,7 +89,7 @@ collections:
     output: true
     permalink: /:collection/:title/
 
-  6_projects:
+  sci_comms:
     output: true
     permalink: /:collection/:title/
 
