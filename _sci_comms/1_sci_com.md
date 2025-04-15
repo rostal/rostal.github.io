@@ -11,13 +11,13 @@ subtitle: Free State
 </div>
 
 <div style="display: flex; justify-content: center;">
-<a href="{{ site.baseurl }}/assets/img/Dz_moz_ticks_FS_afrikaans.pdf" class="actionbtn" download>
+<a href="{{ site.baseurl }}/assets/img/comms/Dz_moz_ticks_FS_afrikaans.pdf" class="actionbtn" download>
       Afrikaans Translation
     </a>
 </div>
 
 <div style="display: flex; justify-content: center;">
-<a href="{{ site.baseurl }}/assets/img/Dz_moz_ticks_FS_sesotho.pdf" class="actionbtn" download>
+<a href="{{ site.baseurl }}/assets/img/comms/Dz_moz_ticks_FS_sesotho.pdf" class="actionbtn" download>
       Sesotho Translation
     </a>
 </div>

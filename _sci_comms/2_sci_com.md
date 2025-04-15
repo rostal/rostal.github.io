@@ -11,7 +11,7 @@ subtitle: KwaZulu_Natal
 </div>
 
 <div style="display: flex; justify-content: center;">
-<a href="{{ site.baseurl }}/assets/img/Dz_moz_ticks_KZN_isizulu.pdf" class="actionbtn" download>
+<a href="{{ site.baseurl }}/assets/img/comms/Dz_moz_ticks_KZN_isizulu.pdf" class="actionbtn" download>
       IsiZulu Translation
     </a>
 </div>

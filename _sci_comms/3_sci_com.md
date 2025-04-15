@@ -10,7 +10,7 @@ title: Diseases Spread by Ticks
 </div>
 
 <div style="display: flex; justify-content: center;">
-<a href="{{ site.baseurl }}/assets/img/Diseases_Spread_by_Ticks-swahili.pdf" class="actionbtn" download>
+<a href="{{ site.baseurl }}/assets/img/comms/Diseases_Spread_by_Ticks-swahili.pdf" class="actionbtn" download>
       Swahili Translation
     </a>
 </div>

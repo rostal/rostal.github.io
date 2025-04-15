@@ -10,7 +10,7 @@ title: Zoonoses in South Africa
 </div>
 
 <div style="display: flex; justify-content: center;">
-<a href="{{ site.baseurl }}/assets/img/RVF_zoonoses_RSA_afrikaans.pdf" class="actionbtn" download>
+<a href="{{ site.baseurl }}/assets/img/comms/RVF_zoonoses_RSA_afrikaans.pdf" class="actionbtn" download>
       Afrikaans Translation
     </a>
 </div>
