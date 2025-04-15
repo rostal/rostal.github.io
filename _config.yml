@@ -91,7 +91,7 @@ collections:
 
   6_projects:
     output: true
-    permalink: /:collection/projects/:title/
+    permalink: /:projects/:collection/:title/
 
 
 ###########################
