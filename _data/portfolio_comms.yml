@@ -1,9 +1,13 @@
-- title: Diseases Spread by Mosquitoes and Ticks
-  description: Booklet developed to introduc select vector-borne diseases to the general public in South Africa
+- title: Diseases Spread by Mosquitoes and Ticks-FS
+  description: Booklet introducing vector-borne diseases to the public in Free State, South Africa
   img: sci_comm_rsa_pic2.png
   url: https://rostal.github.io/sci_comms/1_sci_com
+- title: Diseases Spread by Mosquitoes and Ticks-KZN
+  description: Booklet introducing vector-borne diseases to the public in KwaZulu-Natal, South Africa
+  img: sci_comm_rsa_pic2.png
+  url: https://rostal.github.io/sci_comms/2_sci_com
 - title: CCHF
   description: Diseases Spread by Ticks
   img: sci_comm_pic1.png
-  url: https://rostal.github.io/sci_comms/2_sci_com
+  url: https://rostal.github.io/sci_comms/3_sci_com
 
