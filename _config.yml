@@ -24,7 +24,7 @@ navbar-links:
   Resume: "Resume"
   Publications: "Publications"
   Projects: "projects"
-  
+
 
 ################
 # --- Logo --- #
@@ -89,6 +89,10 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+  6_projects:
+    output: true
+    permalink: /:collection/projects/:title/
+
 
 ###########################
 # --- General options --- #
@@ -132,7 +136,7 @@ navbar-var-length: false
 keywords: "veterinary epidmeiology, Rift Valley fever, vector-borne zoonoses, Crimean-Congo hemorrhagic fever, Melinda Rostal, Mindy Rostal"
 
 # enables categorization of projects into multiple categories
-enable_project_categories: false 
+enable_project_categories: false
 enable_masonry: true # enables automatic project cards arrangement
 #enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 ######################################
