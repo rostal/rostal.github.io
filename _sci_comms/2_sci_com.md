@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Diseases Spread by Mosquitoes and Ticks - KwaZulu_Natal 
+title: Diseases Spread by Mosquitoes and Ticks
+subtitle: KwaZulu_Natal 
 ---
 
 <div style="display: flex; justify-content: center; width: 100%; max-width: 1200px; margin: 0 auto;">
