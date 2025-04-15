@@ -5,7 +5,7 @@ title: Diseases Spread by Ticks
 
 <div style="display: flex; justify-content: center; width: 100%; max-width: 1200px; margin: 0 auto;">
     <a href="{{ site.baseurl }}/assets/img/comms/Diseases_Spread_by_Ticks-eng.pdf" download>
-        <img src="{{ site.baseurl }}/assets/comms/Diseases_Spread_by_Ticks.png" alt="Resume" style="width: 100%; max-width: 1000px; height: auto;">
+        <img src="{{ site.baseurl }}/assets/img/comms/Diseases_Spread_by_Ticks.png" alt="Resume" style="width: 100%; max-width: 1000px; height: auto;">
     </a>
 </div>
 
