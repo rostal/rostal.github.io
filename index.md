@@ -89,6 +89,9 @@ ext-css:
   </div>
 </div>
 
+<div class="cut-buffer values-buffer"></div>
+
+
 <div id="onehealth-out" class="page-section cut1"> 
   <div id="onehealth">
     <div class="section-title">What is One Health</div>
@@ -118,7 +121,7 @@ ext-css:
 
 <div class="cut-buffer portfolio-buffer"></div>
 
-<div id="portfolio-out" class="page-section grey-section">
+<div id="portfolio-out" class="page-section cut2">
   <div id="portfolio">
     <div class="section-title">
       Projects
