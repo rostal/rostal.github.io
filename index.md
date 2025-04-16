@@ -116,7 +116,7 @@ ext-css:
 
 <div class="cut-buffer portfolio-buffer"></div>
 
-<div id="portfolio-out" class="page-section cut2">
+<div id="portfolio-out" class="page-section cut1">
   <div id="portfolio">
     <div class="section-title">
       Projects
