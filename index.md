@@ -111,7 +111,7 @@ ext-css:
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
     <div class="section-title">Where we work</div>
-    <div id="clients-subtitle">We have experience working with academic, non-governmental and governmental partners and collaborators in nearly 20 countries</div>
+    <div id="clients-text">We have experience working with academic, non-governmental and governmental partners and collaborators in nearly 20 countries</div>
     <div class="clients">
         <img class="clients-img" alt="clients image" src="/assets/img/Plot of where OHCR network.png" />
       </div>

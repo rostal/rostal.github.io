@@ -266,7 +266,8 @@ footer {
 
 #aboutus-text,
 #values-text,
-#onehealth-text{
+#onehealth-text,
+#clients-text{
   max-width: 1200px;
   margin: 0 auto;
   font-size: 1.5rem
