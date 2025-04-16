@@ -103,7 +103,7 @@ ext-css:
 
 <div class="cut-buffer clients-buffer"></div>
 
-<div id="clients-out" class="page-section white-section cut1">
+<div id="clients-out" class="page-section">
   <div id="clients">
     <div class="section-title">Where we work</div>
     <div id="clients-text">
