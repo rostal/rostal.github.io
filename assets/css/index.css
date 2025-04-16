@@ -259,8 +259,10 @@ footer {
   background: #f5f5f5;
   background-image: url(/assets/img/back-bg.png);
 }
+
 #aboutus,
-#values {
+#values,
+#onehealth{
   padding: 0 1rem;
 }
 
@@ -348,13 +350,11 @@ footer {
   box-shadow: 0 0 10px #aaa;
   transform: scale(1.1);
 }
-
 #portfolio-out, .portfolio-buffer {
   background: #0a1236;
   background-image: url(/assets/img/back-bg.png);
   color: #fff;
 }
-
 #portfolio-text {
   margin-bottom: 5rem;
 }
