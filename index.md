@@ -67,12 +67,13 @@ ext-css:
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
-      The need for One Health solutions to global health challenges has never been greater. One Health Research Consulting was launched in 2024 to improve health using approaches work at the interface of animals, people and the environment. In the face of human caused environmental changes, climate change, land use change and increasing pressure for globalization we use scientific methods to identify risk factors and critical control points through field and theoretical epidemiology and ecology. One Health Research Consulting was founded by <a href="https://rostal.github.io/aboutme/">Dr. Melinda Rostal</a>, who has been developing One Health research programs for 15 years. Additionally, our network of partners, collaborators and scientist can be mobilized as needed to support your One Health goals. We will work with you to identify the best One Health solution for your problem. 
+      The need for One Health solutions to global health challenges has never been greater. One Health Research Consulting was launched in 2024 to improve health using approaches work at the interface of animals, people and the environment. In the face of human caused environmental changes, climate change, land use change and increasing pressure for globalization we use scientific methods to identify risk factors and critical control points through field and theoretical epidemiology and ecology. One Health Research Consulting was founded by <a href="https://rostal.github.io/aboutme/">Dr. Melinda Rostal</a>, who has been developing One Health research programs for 15 years. Additionally, our network of partners, collaborators and scientist can be mobilized as needed to support your One Health goals. We will work with you to identify the best One Health solution for your problem. <br/>- OHHLEP 
     </div>
   </div>
 </div>
 
 <div class="cut-buffer values-buffer"></div>
+
 
 <div id="values-out" class="page-section cut2">
   <div id="values">
@@ -88,7 +89,21 @@ ext-css:
   </div>
 </div>
 
-<div id="clients-out" class="page-section cut1">
+<div id="onehealth-out" class="page-section cut1"> 
+  <div id="onehealth">
+    <div class="section-title">What is One Health</div>
+    <div id="onehealth-text">
+      
+
+    One Health is an integrated, unifying approach that aims to sustainably balance and optimize the health of people, animals and ecosystems. It recognizes the health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and interdependent.The approach mobilizes multiple sectors, disciplines and communities at varying levels of society to work together to foster well-being and tackle threats to health and ecosystems, while addressing the collective need for healthy food, water, energy, and air, taking action on climate change, and contributing to sustainable development.
+ 
+    </div>
+  </div>
+</div>
+
+<div class="cut-buffer values-buffer"></div>
+
+<div id="clients-out" class="page-section grey-section cut2">
   <div id="clients">
     <div class="section-title">Where we work</div>
     <div id="clients-subtitle">We have experience working with academic, non-governmental and governmental partners and collaborators in nearly 20 countries</div>
