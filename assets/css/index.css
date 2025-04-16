@@ -352,6 +352,7 @@ footer {
 
 #portfolio-out, .portfolio-buffer {
   background: #0a1236#;
+  background-image: url(/assets/img/back-bg.png);
   color: #fff;
 
 }
