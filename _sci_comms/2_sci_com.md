@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diseases Spread by Mosquitoes and Ticks
+title:  
 
 ---
 
