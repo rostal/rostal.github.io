@@ -141,6 +141,8 @@ ext-css:
   </div>
 </div>
 
+<div class="cut-buffer cta-buffer"></div>
+
 <div id="cta-out" class="page-section">
   <div id="cta">
     <div class="section-title">Let's Make YOUR One Health Solution Today</div><br/>
