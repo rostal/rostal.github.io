@@ -103,7 +103,7 @@ ext-css:
 
 <div class="cut-buffer clients-buffer"></div>
 
-<div id="clients-out" class="page-section">
+<div id="clients-out" class="page-section white-section cut1">
   <div id="clients">
     <div class="section-title">Where we work</div>
     <div id="clients-text">
@@ -143,7 +143,7 @@ ext-css:
 
 <div class="cut-buffer cta-buffer"></div>
 
-  <div id="cta" class="page-section white-section cut2">
+  <div id="cta" class="page-section">
     <div class="section-title">Let's Make YOUR One Health Solution Today</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
