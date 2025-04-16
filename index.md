@@ -42,7 +42,6 @@ ext-css:
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_VBDs.png" />
         <div class="service-text">Epidemiology of vector-borne pathogens</div>
       </div>
-	    
       <div id="services-break"></div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_network.png" />
@@ -114,7 +113,7 @@ ext-css:
   </div>
 </div>
 
-<div class="cut-buffer"></div>
+
 
 
 <div class="cut-buffer portfolio-buffer"></div>
