@@ -181,6 +181,11 @@ footer {
   text-shadow: 0 1px #fff;
 }
 
+.page-section.white-section {
+  background: #fff;
+  text-shadow: 0 1px #fff;
+}
+
 .page-section .section-title {
   font-size: 5rem;
   line-height: 1.3;
