@@ -143,7 +143,7 @@ ext-css:
 
 <div class="cut-buffer cta-buffer"></div>
 
-  <div id="cta">
+  <div id="cta" class="page-section white-section cut2">
     <div class="section-title">Let's Make YOUR One Health Solution Today</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
