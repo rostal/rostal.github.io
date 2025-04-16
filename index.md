@@ -94,12 +94,7 @@ ext-css:
   <div id="onehealth">
 	  <div class="section-title">What is One Health?</div>
     <div id="onehealth-text">
-      One Health is an integrated, unifying approach that aims to sustainably balance and optimize the health of people,
-      <br/> animals and ecosystems. It recognizes the health of humans, domestic and wild animals, plants, and the wider
-      <br/> environment (including ecosystems) are closely linked and interdependent.The approach mobilizes multiple sectors,
-      <br/> disciplines and communities at varying levels of society to work together to foster well-being and tackle 
-      <br/>threats to health and ecosystems, while addressing the collective need for healthy food, water, energy, and air, 
-      <br/>taking action on climate change, and contributing to sustainable development.  
+      One Health is an integrated, unifying approach that aims to sustainably balance and optimize the health of people, animals and ecosystems. It recognizes the health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and interdependent.The approach mobilizes multiple sectors, disciplines and communities at varying levels of society to work together to foster well-being and tackle threats to health and ecosystems, while addressing the collective need for healthy food, water, energy, and air, taking action on climate change, and contributing to sustainable development.  
       <br/>- OHHLEP 
     </div>
   </div>
