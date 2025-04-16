@@ -89,7 +89,7 @@ ext-css:
   </div>
 </div>
 
-<div class="cut-buffer values-buffer"></div>
+<div class="cut-buffer onehealth-buffer"></div>
 
 
 <div id="onehealth-out" class="page-section cut1"> 
@@ -104,7 +104,7 @@ ext-css:
   </div>
 </div>
 
-<div class="cut-buffer values-buffer"></div>
+<div class="cut-buffer clients-buffer"></div>
 
 <div id="clients-out" class="page-section grey-section cut2">
   <div id="clients">
