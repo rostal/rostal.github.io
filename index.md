@@ -90,7 +90,7 @@ ext-css:
 
 <div class="cut-buffer onehealth-buffer"></div>
 
-<div id="onehealth-out" class="page-section grey-section cut2">
+<div id="onehealth-out" class="page-section cut1">
   <div id="onehealth">
 	  <div class="section-title">What is One Health?</div>
     <div id="onehealth-text">
@@ -118,7 +118,7 @@ ext-css:
 
 <div class="cut-buffer portfolio-buffer"></div>
 
-<div id="portfolio-out" class="page-section cut1">
+<div id="portfolio-out" class="page-section white-section cut2">
   <div id="portfolio">
     <div class="section-title">
       Projects
@@ -143,7 +143,6 @@ ext-css:
 
 <div class="cut-buffer cta-buffer"></div>
 
-<div id="cta-out" class="page-section white-section cut2">
   <div id="cta">
     <div class="section-title">Let's Make YOUR One Health Solution Today</div><br/>
   </div>
