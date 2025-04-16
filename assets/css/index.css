@@ -317,7 +317,7 @@ footer {
   background: url(/assets/img/big-imgs/endcap_Livestock_and_wildlife.png);
   background-size: cover;
   background-position: 0 50%;
-  color: #3380d4;
+  color: #fff;
   text-shadow: 1px 1px 2px #000;
   padding: 5rem 0 6rem;
 }
@@ -355,8 +355,8 @@ footer {
 }
 
 #portfolio-out, .portfolio-buffer {
-  background: #f5f5f5;
-  background-image: url(/assets/img/maze-bg.png);
+  background: #3380d4;
+
 }
 
 #shinyapps-big .shinyapp {
