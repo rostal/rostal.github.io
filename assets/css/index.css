@@ -317,10 +317,11 @@ footer {
 }
 
 #cta-out {
-  margin: 5rem auto;
+  margin: 5 auto;
   background: url(/assets/img/big-imgs/endcap_Livestock_and_wildlife.png);
   background-size: cover;
   background-position: 0 50%;
+  background-color: #f5f5f5;
   color: #fff;
   text-shadow: 1px 1px 2px #000;
   padding: 5rem 0 6rem;
