@@ -143,13 +143,14 @@ ext-css:
 
 <div class="cut-buffer cta-buffer"></div>
 
-  <div id="cta" class="page-section">
-    <div class="section-title">Let's Make YOUR One Health Solution Today</div><br/>
+  <div id="cta-out" class="page-section">
+    <div id="cta">
+      <div class="section-title">Let's Make YOUR One Health Solution Today</div><br/>
+    </div>
+    <a href="/contact" class="actionbtn">
+     <span class="far fa-envelope" aria-hidden="true"></span>
+     Contact Us
+    </a>
   </div>
-  <a href="/contact" class="actionbtn">
-    <span class="far fa-envelope" aria-hidden="true"></span>
-    Contact Us
-  </a>
-</div>
 
 
