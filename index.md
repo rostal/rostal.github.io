@@ -90,7 +90,7 @@ ext-css:
 
 <div class="cut-buffer onehealth-buffer"></div>
 
-<div id="onehealth-out" class="page-section white-section cut1">
+<div id="onehealth-out" class="page-section white-section cut1 whitecut">
   <div id="onehealth">
 	  <div class="section-title">What is One Health?</div>
     <div id="onehealth-text">
