@@ -30,7 +30,7 @@ ext-css:
 
 <div id="main-sections">
 
-<div id="services-out" class="page-section cut1">
+<div id="services-out" class="page-section cut1 whitecut">
   <div id="services">
     <div class="section-title">What We Offer</div>
     <div id="services-list">
@@ -40,7 +40,7 @@ ext-css:
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_VBDs.png" />
-        <div class="service-text">Epidemiology of vector-borne pathogens</div>
+        <div class="service-text">Epidemiology of zoonotic & vector-borne pathogens</div>
       </div>
       <div id="services-break"></div>
       <div class="service">
