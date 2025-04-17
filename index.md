@@ -31,7 +31,7 @@ ext-css:
 
 <div id="main-sections">
 
-<div class="cut-buffer whitebuf services-buffer"></div>
+<div class="cut-buffer whitebuff services-buffer"></div>
 
 <div id="services-out" class="page-section cut1 whitecut">
   <div id="services">
