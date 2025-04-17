@@ -12,7 +12,7 @@ ext-css:
 
 
 
-<div id="header" class="cut1" markdown="1">
+<div id="header" class="cut1 whitecut" markdown="1">
 
 
 # One Health Research Consulting {#title}
