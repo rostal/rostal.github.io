@@ -104,7 +104,7 @@ ext-css:
 </div>
 
 
-<div class="cut-buffer clients-buffer"></div>
+<div class="cut-buffer whitebuff clients-buffer"></div>
 
 <div id="clients-out" class="page-section white-section cut1">
   <div id="clients">
