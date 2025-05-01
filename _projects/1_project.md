@@ -39,10 +39,10 @@ During this time we have made a substantial contribution to the current understa
 - We developed a mathematical model that suggests the reason there was no outbreak in the Free State in 2020-2023 may have been that the coverage of RVFV vaccination in livestock was sufficient to prevent a large outbreak but not to prevent the low-level circulation we observed previously.
 - We confirmed that RVFV is circulating in far northeastern KwaZulu-Natal, despite there not being any outbreaks previously reported there. 
 - A low proportion of people have been exposed to RVFV there, suggesting that the virus does circulate but leaving questions about how its level of circulation varies from that in the Free State.
-[comment]: <> (We calculated a more accurate cost estimate of RVF from 2002-2011 - including more information from the livestock producers groups and from those sectors outside of agriculture - and the with conservative estimates were close to $120 million.)
-- We demonstrated that the RVF Smithburn vaccine induces the presence of antibodies that persist at least 6 years in sheep.
+< !-- *comment* --/>(We calculated a more accurate cost estimate of RVF from 2002-2011 - including more information from the livestock producers groups and from those sectors outside of agriculture - and the with conservative estimates were close to $120 million.)
+- We demonstrated that the Smithburn RVFV vaccine induces the presence of antibodies that persist at least 6 years in sheep.
 
-While we answered many questions, there are still more questions to answer - after all, we’ve only been studying RVFV this intensively for a portion (0.33) of the ~30 years South Africa experiences between large, widespread outbreaks. Our research here will be ongoing.
+While we answered many questions, there are still more questions to answer - after all, we’ve only been studying RVFV this intensively for about a third of the ~30 years South Africa experiences between large, widespread outbreaks. Our research here will be ongoing.
 
 We appreciate all of the contributions of our partners and stakeholders.
 
@@ -55,7 +55,7 @@ We appreciate all of the contributions of our partners and stakeholders.
     Partners and stakeholders at our annual meeting in Pretoria on August 2, 2024
 </div>
 
-This work was a collaboration that was led by EcoHealth Alliance, the National Institute for Communicable Diseases and the University of Pretoria. Several South African and U.S.-based institutions were collaborating partners for various periods of time during the 10-year project.
+This work was a collaboration led by EcoHealth Alliance, the National Institute for Communicable Diseases and the University of Pretoria. Several South African and U.S.-based institutions were collaborating partners for various periods of time during the 10-year project.
 
 
 <div class="row">
@@ -64,6 +64,6 @@ This work was a collaboration that was led by EcoHealth Alliance, the National I
     </div>
 </div>
 <div class="caption">
-    Partners that contributed to the work include: EcoHealth Alliance; the National Institute for Communicable Diseases; the University of Pretoria; ExecuVet; the Agricultural Research Council - Onderstepoort Veterinary Research, Economic Analysis Unit and Soil, Climate and Water; Oak Ridge National Laboratory; South Africa National Parks; The University of Tennessee, Knoxville;  One Health Consulting; the Free State Department of Economic Development, Tourism and Environmental Affairs; the University of the Free State and the South African Defence Force.
+    Partners that contributed to the work include: EcoHealth Alliance; the National Institute for Communicable Diseases; the University of Pretoria; ExecuVet; the Agricultural Research Council - Onderstepoort Veterinary Research, Economic Analysis Unit and Soil, Climate and Water; Oak Ridge National Laboratory; South Africa National Parks; The University of Tennessee, Knoxville;  One Health Consulting; the Free State Department of Economic Development, Tourism and Environmental Affairs; the University of the Free State, the South African Defence Force, Universities Space Research Association and NASA.
 </div>
 
