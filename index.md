@@ -52,7 +52,7 @@ ext-css:
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_training.png" />
-        <div class="service-text">Trainings: epidemiology and One Health</div>
+        <div class="service-text">Training on epidemiology and One Health</div>
       </div>
     </div>
     <a href="/contact" class="actionbtn">
@@ -68,7 +68,7 @@ ext-css:
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
-      The need for One Health solutions to global health challenges has never been greater. One Health Research Consulting was launched in 2024 to improve health using approaches work at the interface of animals, people and the environment. In the face of human caused environmental changes, climate change, land use change and increasing pressure for globalization we use scientific methods to identify risk factors and critical control points through field and theoretical epidemiology and ecology. One Health Research Consulting was founded by <a href="https://rostal.github.io/aboutme/">Dr. Melinda Rostal</a>, who has been developing One Health research programs for 15 years. Additionally, our network of partners, collaborators and scientist can be mobilized as needed to support your One Health goals. We will work with you to identify the best One Health solution for your problem.
+      The need for One Health solutions to global health challenges has never been greater. One Health Research Consulting was launched in 2024 to improve health using approaches that work at the interface of animals, people and the environment. In the face of human-caused environmental changes, climate change, land use change and increasing pressure for globalization, we use scientific methods to identify risk factors and critical control points through field and theoretical epidemiology and ecology. One Health Research Consulting was founded by <a href="https://rostal.github.io/aboutme/">Dr. Melinda Rostal</a>, who has been developing One Health research programs for 15 years. Additionally, our network of partners, collaborators and scientists can be mobilized as needed to support your One Health goals. We will work with you to identify the best One Health solution for your problem.
     </div>
   </div>
 </div>
@@ -80,9 +80,9 @@ ext-css:
   <div id="values">
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
-      Zoonotic diseases are complex systems that require integrated responses. We use our expertise in building strong, multidisciplinary coalitions and bring a scientific One Health approach to solving zoonotic threats. 
+      Zoonotic diseases are complex systems that require integrated responses. We bring our expertise in building strong, multidisciplinary coalitions and a scientific One Health approach to solve zoonotic threats. 
 
-     We believe in <b>collaboration</b>, building trust though open and equal partnerships. Bringing <b>scientific excellence</b> to deliver exceptional, rigorous and evidence-based solutions using a One Health approach. We focus on aspects of disease ecology and epidemiology that be used to support and improve veterinary, environmental and public health <b>policy</b>.
+     We believe in <b>collaboration</b>, building trust though open and equal partnerships. We deliver exceptional, rigorous and evidence-based One Health solutions founded on <b>scientific excellence</b>. We focus on aspects of disease ecology and epidemiology that can be used to support and improve veterinary, environmental and public health <b>policy</b>.
     </div>
     <a href="/contact" class="actionbtn">
       Work With Us
@@ -98,7 +98,7 @@ ext-css:
 	  <div class="section-title">What is One Health?</div>
     <div id="onehealth-text">
       One Health is an integrated, unifying approach that aims to sustainably balance and optimize the health of people, animals and ecosystems. It recognizes the health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and interdependent.The approach mobilizes multiple sectors, disciplines and communities at varying levels of society to work together to foster well-being and tackle threats to health and ecosystems, while addressing the collective need for healthy food, water, energy, and air, taking action on climate change, and contributing to sustainable development.  
-      <br/>- OHHLEP 
+      <br/>- OHHLEP, 2023
     </div>
   </div>
 </div>
