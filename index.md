@@ -51,7 +51,7 @@ ext-css:
         <div class="service-text">Building One Health collaborations</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image - One Health training" src="/assets/img/scale-flexiple/icon_training_emma.png" />
+        <img class="service-img" alt="Service image - One Health training" src="/assets/img/scale-flexiple/icon_trainings_emma.png" />
         <div class="service-text">Training on epidemiology and One Health</div>
       </div>
     </div>
