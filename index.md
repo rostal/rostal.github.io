@@ -38,20 +38,20 @@ ext-css:
     <div class="section-title">What We Offer</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_services.png" />
+        <img class="service-img" alt="Service image - solutions" src="/assets/img/scale-flexiple/icon_solutions_emma.png" />
         <div class="service-text">Designing One Health programs</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_VBDs.png" />
+        <img class="service-img" alt="Service image - vector-borne and zoonotic diseases" src="/assets/img/scale-flexiple/icon_VBDs.png" />
         <div class="service-text">Epidemiology of zoonotic & vector-borne pathogens</div>
       </div>
       <div id="services-break"></div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_network.png" />
+        <img class="service-img" alt="Service image - global network" src="/assets/img/scale-flexiple/icon_network_emma.png" />
         <div class="service-text">Building One Health collaborations</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/icon_training.png" />
+        <img class="service-img" alt="Service image - One Health training" src="/assets/img/scale-flexiple/icon_training_emma.png" />
         <div class="service-text">Training on epidemiology and One Health</div>
       </div>
     </div>
