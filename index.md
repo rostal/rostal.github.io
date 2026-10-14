@@ -42,7 +42,7 @@ ext-css:
         <div class="service-text">Designing One Health programs</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image - vector-borne and zoonotic diseases" src="/assets/img/scale-flexiple/icon_VBDs.png" />
+        <img class="service-img" alt="Service image - vector-borne and zoonotic diseases" src="/assets/img/scale-flexiple/icon_vbds_claude.png" />
         <div class="service-text">Epidemiology of zoonotic & vector-borne pathogens</div>
       </div>
       <div id="services-break"></div>
