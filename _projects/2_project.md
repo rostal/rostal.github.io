@@ -2,7 +2,7 @@
 layout: page
 title: REMIT 
 description: Rift Valley Fever Epidemiology and Modelling to Inform Vaccine Efficacy Trials
-img: assets/img/CCHF_pic1.jpg
+img: assets/img/REMIT_cover1.png
 importance: 2
 category: work
 related_publications: true
@@ -14,50 +14,48 @@ div.caption {
 </style>
 
 
-The REMIT project examined the epidemiology of Crimean-Congo hemorrhagic fever (CCHF) virus in northern Tanzania. We used a One Health approach to estimate the seroprevalence of CCHF virus (CCHFV) in small mammals, cattle and people as well as the prevalence in ticks collected from the environment, cattle and small mammals. 
+The REMIT project is using an interdisciplinary One Health approach to examine the epidemiological, practical and social feasibility of human Rift Valley fever (RVF) Phase IIb or Phase III vaccine efficacy trials, exploring alternative case definitions, trial designs and statistical power. 
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CCHF_pic2.png" title="Measuring morphometrics" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/REMIT_img1.png" title="Team member preparing to sample cohort participants" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CCHF_pic3.jpg" title="CCHF field set up" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CCHF_pic4.png" title="Cattle sampling" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/REMIT_pict2.jpg" title="Dr Rostal presenting at the stakeholder meeting in Moshi" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left, collecting morphometrics (measuring the size) of an anesthetized rodent that was sampled for the project. Middle, field team member collecting a blood sample from a study cow. Right, the mobile field station set up for sampling in the Serengeti.
+    Left, Team member preparing to sample cohort participants. Right, Dr Rostal presenting at the stakeholder meeting in Moshi.
 </div>
 
-- We used a novel One Health approach to sample people, livestock, wildlife, and vectors simultaneously.
-- We collected and identified more than 2,000 ticks and CCHFV was not confirmed in any of the ticks collected to date.
-- We completed a One Health serosurvey in northern Tanzania (from Arusha to Serengeti) in people cattle and small mammals. Like studies that have come before us, we found that people and animals in Tanzania have been exposed to CCHFV. 
-- We supported 1-4 years of work for 4 graduate students. Our students are in their final year (see below) and are continuing to work on several of the analyses and critical outputs of this project.
-- The TVLA-Arusha laboratory now has significant capacity to become a national center of excellence for tick identification and diagnostics and I hope to continue partnering with them on future tick studies and that you will consider them for future tick work as well! 
+
+- We will develop and apply existing RVF virus (RVFV) epidemiological models to predict the locations, drivers, scale and stability of RVFV spillover to humans across East, West, and South Africa.
+- We will collect additional data in Tanzania, leveraging existing platforms and datasets to conduct longitudinal human and cattle sampling and examine the feasibility of using a livestock abortion monitoring system as an early warning system for RVFV.
+- We will collect additional data in The Gambia, including conducting a serosurvey in people associated with households in which we have already sampled livestock, and testing banked human serum samples for RVFV antibodies.
+- We will use simulations informed by synthesised evidence to provide guidance on vaccine efficacy trial feasibility, including where and when trials might be feasible. 
 
 We appreciate all the contributions of our partners and stakeholders.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CCHF_stake2023.jpg" title="2023 CCHF stakeholder meeting" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/REMIT_stake1.jpg" title="2025 REMIT stakeholder meeting" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Partners and stakeholders at our meeting in Arusha on September 13, 2023
+    Partners and stakeholders at our meeting in Moshi on August 26, 2025
 </div>
 
-This work was a collaboration that was led by EcoHealth Alliance, Kilimanjaro Clinical Research Institute, the Tanzania Veterinary Laboratory Agency, University of Glasgow and Washington State University. Several Tanzanian and U.K.-based institutions were collaborating partners on the project.
+This work is a collaboration that is led by Kilimanjaro Clinical Research Institute in partnership with One Health Research Consulting, the Tanzania Veterinary Laboratory Agency, MRC The Gambia, University of Pretoria, National Institute for Communicable Diseases, Ifakara Health Institute, University of Glasgow, University of Otago, Washington State University and Global Health Tanzania.
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CCHF_part_logs.jpg" title="CCHF Partner logos" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/REMIT_part_logs.png" title="REMIT Partner logos" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Partners that contributed to the work include: EcoHealth Alliance, Kilimanjaro Clinical Research Institute, the Tanzania Veterinary Laboratory Agency, University of Glasgow, Washington State University, Tanzania Wildlife Research Institute, UK Agency for Health Security and Global Animal Health-Tanzania.
+    Partners that contributed to the work led by Kilimanjaro Clinical Research Institute.
 </div>
 
-This project was funded by the Biological Threat Reduction Program, Defense Threat Reduction Agency, US Department of Defense.
+This project is funded by CEPI.
