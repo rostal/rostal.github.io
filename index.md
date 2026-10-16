@@ -104,24 +104,10 @@ ext-css:
 </div>
 
 
-<div class="cut-buffer whitebuff clients-buffer"></div>
 
-<div id="clients-out" class="page-section white-section cut1">
-  <div id="clients">
-    <div class="section-title">Where we work</div>
-    <div id="clients-text">
-     We have experience working with academic, non-governmental and governmental partners and collaborators in nearly 20 countries
-    </div>
-    <div class="clients">
-        <img class="clients-img" alt="map image" src="/assets/img/Plot of where OHCR network.png" />
-      </div>
-  </div>
-</div>
+<div class="cut-buffer whitebuff portfolio-buffer"></div>
 
-
-<div class="cut-buffer portfolio-buffer"></div>
-
-<div id="portfolio-out" class="page-section white-section cut2">
+<div id="portfolio-out" class="page-section white-section cut1">
   <div id="portfolio">
     <div class="section-title">
       Projects
@@ -143,6 +129,22 @@ ext-css:
     </div>
   </div>
 </div>
+
+
+<div class="cut-buffer clients-buffer"></div>
+
+<div id="clients-out" class="page-section white-section cut2">
+  <div id="clients">
+    <div class="section-title">Where we work</div>
+    <div id="clients-text">
+     We have experience working with academic, non-governmental and governmental partners and collaborators in nearly 20 countries
+    </div>
+    <div class="clients">
+        <img class="clients-img" alt="map image" src="/assets/img/Plot of where OHCR network.png" />
+      </div>
+  </div>
+</div>
+
 
 <div class="cut-buffer cta-buffer"></div>
 
