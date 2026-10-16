@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CCHF 
-description: Crimean-Congo hemorrhagic fever virus epidemiology
+title: REMIT 
+description: Rift Valley Fever Epidemiology and Modelling to Inform Vaccine Efficacy Trials
 img: assets/img/CCHF_pic1.jpg
-importance: 3
+importance: 2
 category: work
 related_publications: true
 ---
@@ -14,7 +14,7 @@ div.caption {
 </style>
 
 
-The Crimean-Congo hemorrhagic fever: Reducing an emerging health threat in Tanzania project (2020-2024) examined the epidemiology of Crimean-Congo hemorrhagic fever (CCHF) virus in northern Tanzania. We used a One Health approach to estimate the seroprevalence of CCHF virus (CCHFV) in small mammals, cattle and people as well as the prevalence in ticks collected from the environment, cattle and small mammals. 
+The REMIT project examined the epidemiology of Crimean-Congo hemorrhagic fever (CCHF) virus in northern Tanzania. We used a One Health approach to estimate the seroprevalence of CCHF virus (CCHFV) in small mammals, cattle and people as well as the prevalence in ticks collected from the environment, cattle and small mammals. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
