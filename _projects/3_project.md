@@ -2,7 +2,7 @@
 layout: page
 title: Endemic RVFV 
 description: Understanding endemic Rift Valley Fever (RVF) transmission in distinct African regions
-img: assets/img/CCHF_pic1.jpg
+img: assets/img/RVF_ILRI.png
 importance: 3
 category: work
 related_publications: true
@@ -14,7 +14,7 @@ div.caption {
 </style>
 
 
-The "Understanding endemic Rift Valley Fever (RVF) transmission in distinct African regions" project . We used a One Health approach to estimate the seroprevalence of CCHF virus (CCHFV) in small mammals, cattle and people as well as the prevalence in ticks collected from the environment, cattle and small mammals. 
+The "Understanding endemic Rift Valley Fever (RVF) transmission in distinct African regions" project investigates the endemic dynamics of Rift Valley Fever virus (RVFV) in East (Kenya), West (Senegal), and Southern Africa (Mozambique), challenging the view of RVFV as an epidemic disease. We propose that RVF exists along a spectrum from epidemic to endemic transmission, influenced by landscape ecology, climate, and socioeconomic factors. The project will analyse existing RVF datasets and collect new field data to quantify endemic transmission in areas where humans and livestock share ecological niches with mosquito vectors. Cohort studies will estimate RVFV seroconversion in livestock and humans, while predictive models will identify environmental conditions supporting endemic transmission. We will characterise mosquito vectors, investigate environmental factors influencing virus persistence, and use genomic tools to sequence RVFV from animals, humans, and vectors for phylogeographic analysis. Ethnographic research will explore social perceptions of RVF risk and responses. By integrating ecological, phylogeographical, and social data, this research will engage with communities, national authorities, and international bodies to provide policymakers with evidence-based strategies for sustainable RVFV control, shifting from reactive outbreak responses to proactive prevention.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
