@@ -38,7 +38,7 @@ ext-css:
     <div class="section-title">What We Offer</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image - solutions" src="/assets/img/scale-flexiple/icon_solutions_emma.png" />
+        <img class="service-img" alt="Service image - solutions" src="/assets/img/scale-flexiple/icon_solutions_emma.PNG" />
         <div class="service-text">Designing One Health programs</div>
       </div>
       <div class="service">
