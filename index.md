@@ -1,6 +1,7 @@
 ---
 layout: base
-title: "One Health Research | One Health solutions for complex problems"
+title: "One Health Research"
+subtitle: "One Health solutions for complex problems"
 cover-img: /assets/img/cover_camels_and_watering hole_bw.png
 css:
   - /assets/css/index.css
