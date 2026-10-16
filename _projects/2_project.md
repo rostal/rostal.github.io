@@ -3,7 +3,7 @@ layout: page
 title: CCHF 
 description: Crimean-Congo hemorrhagic fever virus epidemiology
 img: assets/img/CCHF_pic1.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---

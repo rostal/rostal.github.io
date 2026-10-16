@@ -3,7 +3,7 @@ layout: page
 title: PREDICT 
 description: USAID's Pandemic Emerging Threats Program
 img: assets/img/PREDICT_pic1.JPG
-importance: 3
+importance: 5
 category: work
 related_publications: true
 ---

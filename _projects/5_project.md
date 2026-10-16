@@ -3,7 +3,7 @@ layout: page
 title: Open RVFCast
 description: An open-access system to improve predicitons of RVF outbreaks.
 img: assets/img/RVFCast_pic1.jpg
-importance: 5
+importance: 1
 category: work
 related_publications: true
 ---
